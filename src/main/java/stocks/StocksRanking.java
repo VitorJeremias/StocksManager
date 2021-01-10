@@ -4,11 +4,11 @@ import java.util.List;
 
 public class StocksRanking {
 
-	private static void setEvEbitRanks() {
-		for (int i = 0; i < StocksManager.getSortedEvEbitList().size(); i++) {
-			StocksManager.getSortedEvEbitList().get(i).setEvEbitRank(i + 1);
-		}
-	}
+	// private static void setEvEbitRanks() {
+	// for (int i = 0; i < StocksManager.getSortedEvEbitList().size(); i++) {
+	// StocksManager.getSortedEvEbitList().get(i).setEvEbitRank(i + 1);
+	// }
+	// }
 
 	public static void setOverallRanks() {
 		setOverallRankValues();
@@ -21,7 +21,7 @@ public class StocksRanking {
 	}
 
 	private static void setOverallRankValues() {
-		setEvEbitRanks();
+		// setEvEbitRanks();
 		setRoicRanks();
 		setEarningYieldRanks();
 		for (int i = 0; i < StocksManager.stocksList.size(); i++) {
