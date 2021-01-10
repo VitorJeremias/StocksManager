@@ -1,0 +1,109 @@
+
+Code: VVAR3
+Company: VIAVAREJO ON
+Price: 15.53
+EY: 0.06917653319143276
+EY Rank: 1
+ROIC: 9.9
+Liq: 8.42389E8
+ROIC Rank: 1
+Overall Rank value: 2
+Overall Rank: 1
+
+
+Code: BRML3
+Company: BR MALLS PARTICIPAÇÔES S/A ON
+Price: 9.41
+EY: 0.0575915858029139
+EY Rank: 2
+ROIC: 3.5
+Liq: 1.68608E8
+ROIC Rank: 7
+Overall Rank value: 4
+Overall Rank: 2
+
+
+Code: ANIM3
+Company: ANIMA ON NM
+Price: 35.87
+EY: 0.0382732446050536
+EY Rank: 3
+ROIC: 7.2
+Liq: 3.3532E7
+ROIC Rank: 3
+Overall Rank value: 6
+Overall Rank: 3
+
+
+Code: NTCO3
+Company: GRUPO NATURA ON NM
+Price: 50.72
+EY: 0.034053756556159116
+EY Rank: 4
+ROIC: 5.6
+Liq: 3.25718E8
+ROIC Rank: 4
+Overall Rank value: 8
+Overall Rank: 4
+
+
+Code: OMGE3
+Company: OMEGA GER ON NM
+Price: 41.67
+EY: 0.029077751781925024
+EY Rank: 5
+ROIC: 4.6
+Liq: 4.20741E7
+ROIC Rank: 5
+Overall Rank value: 10
+Overall Rank: 5
+
+
+Code: LINX3
+Company: LINX ON NM
+Price: 37.78
+EY: 0.019972547022986443
+EY Rank: 6
+ROIC: 7.2
+Liq: 9.12007E7
+ROIC Rank: 2
+Overall Rank value: 12
+Overall Rank: 6
+
+
+Code: RDNI3
+Company: RNI ON NM
+Price: 11.0
+EY: 0.009645073742355683
+EY Rank: 7
+ROIC: 0.6
+Liq: 552257.0
+ROIC Rank: 8
+Overall Rank value: 14
+Overall Rank: 7
+
+
+Code: BTOW3
+Company: B2W - COMPANHIA GLOBAL DO VAREJO ON
+Price: 72.0
+EY: 0.008102481471270767
+EY Rank: 8
+ROIC: 3.9
+Liq: 4.02572E8
+ROIC Rank: 6
+Overall Rank value: 16
+Overall Rank: 8
+
+
+Code: STBP3
+Company: SBPAR ON NM
+Price: 5.56
+EY: 0.003929339989711114
+EY Rank: 9
+ROIC: 0.5
+Liq: 3.09374E7
+ROIC Rank: 9
+Overall Rank value: 18
+Overall Rank: 9
+
+
