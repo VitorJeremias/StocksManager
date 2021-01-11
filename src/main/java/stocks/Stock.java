@@ -33,6 +33,8 @@ public class Stock {
 				"Company: " + getName() + "\n" +
 				"Price: " + getPrice() + "\n" +
 				// "EV / EBIT: " + getEvEbit() + "\n" +
+				"EBIT: " + getEbit() + "\n" +
+				"EV: " + getEv() + "\n" +
 				"EY: " + getEarningYield() + "\n" +
 				"EY Rank: " + getEarningYieldRank() + "\n" +
 				"ROIC: " + getRoic() + "\n" +

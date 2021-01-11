@@ -5,12 +5,16 @@ import utils.NumberUtils;
 public class Fetcher {
 
 	private static String fetchData(String stockCode, String selectQuery, int elementIndex) {
-		return StocksCrawler.getStockPage(stockCode)
-				.select(selectQuery)
-				.get(elementIndex)
-				.parent()
-				.nextElementSibling()
-				.text();
+		try {
+			return StocksCrawler.getStockPage(stockCode)
+					.select(selectQuery)
+					.get(elementIndex)
+					.parent()
+					.nextElementSibling()
+					.text();
+		} catch (Exception e) {
+			return "0";
+		}
 	}
 
 	public static Double fetchPrice(String stockCode) {
@@ -44,6 +48,6 @@ public class Fetcher {
 	}
 
 	public static void main(String[] args) {
-		System.out.println(fetchEv("PSSA3"));
+		System.out.println(fetchEbit("PINE4"));
 	}
 }

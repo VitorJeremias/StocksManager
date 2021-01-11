@@ -57,10 +57,10 @@ public class StocksCrawler {
 	}
 
 	private static Double getEbit(String stockCode) {
-		return NumberUtils.getFormattedRoicValue(Fetcher.fetchEbit(stockCode));
+		return NumberUtils.getFormattedValue(Fetcher.fetchEbit(stockCode));
 	}
 
 	private static Double getEv(String stockCode) {
-		return NumberUtils.getFormattedRoicValue(Fetcher.fetchEv(stockCode));
+		return NumberUtils.getFormattedValue(Fetcher.fetchEv(stockCode));
 	}
 }

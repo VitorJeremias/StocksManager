@@ -1,109 +1,4131 @@
 
-Code: VVAR3
-Company: VIAVAREJO ON
-Price: 15.53
-EY: 0.06917653319143276
-EY Rank: 1
-ROIC: 9.9
-Liq: 8.42389E8
-ROIC Rank: 1
-Overall Rank value: 2
+Code: PSSA3
+Company: PORTO SEGURO SA ON
+Price: 50.8
+EBIT: 1.45182E10
+EV: 3.16149E9
+EY: 4.592201778275434
+EY Rank: 25
+ROIC: 68.3
+Liq: 9.81827E7
+ROIC Rank: 3
+Overall Rank value: 28
 Overall Rank: 1
 
 
-Code: BRML3
-Company: BR MALLS PARTICIPAÇÔES S/A ON
-Price: 9.41
-EY: 0.0575915858029139
-EY Rank: 2
-ROIC: 3.5
-Liq: 1.68608E8
-ROIC Rank: 7
-Overall Rank value: 4
+Code: WIZS3
+Company: WIZ S.A. ON NM
+Price: 7.99
+EBIT: 4.26165E8
+EV: 1.03806E9
+EY: 0.410539853187677
+EY Rank: 28
+ROIC: 80.9
+Liq: 9977840.0
+ROIC Rank: 2
+Overall Rank value: 30
 Overall Rank: 2
+
+
+Code: MRFG3
+Company: Marfrig ON NM
+Price: 14.01
+EBIT: 7.77471E9
+EV: 2.77425E10
+EY: 0.2802454717491214
+EY Rank: 30
+ROIC: 29.8
+Liq: 1.4896E8
+ROIC Rank: 7
+Overall Rank value: 37
+Overall Rank: 3
+
+
+Code: ATOM3
+Company: ATOMPAR ON
+Price: 3.39
+EBIT: 9738000.0
+EV: 5.65466E7
+EY: 0.17221194554579763
+EY Rank: 38
+ROIC: 84.6
+Liq: 383161.0
+ROIC Rank: 1
+Overall Rank value: 39
+Overall Rank: 4
+
+
+Code: BEEF3
+Company: Minerva ON NM
+Price: 9.73
+EBIT: 1.81004E9
+EV: 1.00548E10
+EY: 0.18001750407765446
+EY Rank: 35
+ROIC: 21.1
+Liq: 9.5772E7
+ROIC Rank: 13
+Overall Rank value: 48
+Overall Rank: 5
+
+
+Code: BOBR4
+Company: BOMBRIL SA PN
+Price: 2.28
+EBIT: 1.22316E8
+EV: 8.05593E8
+EY: 0.15183349408448188
+EY Rank: 45
+ROIC: 24.6
+Liq: 367330.0
+ROIC Rank: 12
+Overall Rank value: 57
+Overall Rank: 6
+
+
+Code: SAPR4
+Company: SANEPAR PN
+Price: 4.73
+EBIT: 1.83601E9
+EV: 9.84901E9
+EY: 0.186415690511026
+EY Rank: 33
+ROIC: 15.3
+Liq: 2.10752E7
+ROIC Rank: 27
+Overall Rank value: 60
+Overall Rank: 7
+
+
+Code: SAPR11
+Company: SANEPAR UNT N2
+Price: 23.66
+EBIT: 1.83601E9
+EV: 9.85203E9
+EY: 0.18635854742626645
+EY Rank: 34
+ROIC: 15.3
+Liq: 7.08534E7
+ROIC Rank: 28
+Overall Rank value: 62
+Overall Rank: 8
+
+
+Code: EQTL3
+Company: EQUATORIAL ENERGIA S.A. ON NM
+Price: 22.51
+EBIT: 5.44932E9
+EV: 3.29744E10
+EY: 0.1652591100975302
+EY Rank: 41
+ROIC: 16.3
+Liq: 1.68307E8
+ROIC Rank: 22
+Overall Rank value: 63
+Overall Rank: 9
+
+
+Code: JBSS3
+Company: JBS ON NM
+Price: 24.4
+EBIT: 1.94709E10
+EV: 1.15475E11
+EY: 0.16861571768781122
+EY Rank: 40
+ROIC: 16.0
+Liq: 3.78937E8
+ROIC Rank: 23
+Overall Rank value: 63
+Overall Rank: 10
+
+
+Code: SAPR3
+Company: SANEPAR ON
+Price: 4.98
+EBIT: 1.83601E9
+EV: 1.02268E10
+EY: 0.17952927601986937
+EY Rank: 36
+ROIC: 15.3
+Liq: 2829800.0
+ROIC Rank: 29
+Overall Rank value: 65
+Overall Rank: 11
+
+
+Code: SULA4
+Company: Sul America PN
+Price: 12.9
+EBIT: 1.43407E9
+EV: 9.17934E7
+EY: 15.622800767811194
+EY Rank: 24
+ROIC: 13.6
+Liq: 320360.0
+ROIC Rank: 42
+Overall Rank value: 66
+Overall Rank: 12
+
+
+Code: JSLG3
+Company: JULIO SIMOES ON NM
+Price: 10.0
+EBIT: 6.15176E8
+EV: 4.38192E9
+EY: 0.14038960090553912
+EY Rank: 53
+ROIC: 20.0
+Liq: 3126500.0
+ROIC Rank: 16
+Overall Rank value: 69
+Overall Rank: 13
+
+
+Code: TASA4
+Company: TAURUS ARMAS PN
+Price: 16.17
+EBIT: 2.86058E8
+EV: 2.26951E9
+EY: 0.1260439478125234
+EY Rank: 60
+ROIC: 25.1
+Liq: 7.67247E7
+ROIC Rank: 9
+Overall Rank value: 69
+Overall Rank: 14
+
+
+Code: SULA11
+Company: Sul America UNT N2
+Price: 42.7
+EBIT: 1.43407E9
+EV: 1.69806E9
+EY: 0.8445343509652191
+EY Rank: 27
+ROIC: 13.6
+Liq: 1.15504E8
+ROIC Rank: 43
+Overall Rank value: 70
+Overall Rank: 15
+
+
+Code: TASA3
+Company: TAURUS ARMAS ON
+Price: 16.6
+EBIT: 2.86058E8
+EV: 2.3078E9
+EY: 0.12395268220816362
+EY Rank: 61
+ROIC: 25.1
+Liq: 4763210.0
+ROIC Rank: 10
+Overall Rank value: 71
+Overall Rank: 16
+
+
+Code: SULA3
+Company: Sul America ON N2
+Price: 16.7
+EBIT: 1.43407E9
+EV: 4.66966E9
+EY: 0.30710372917942635
+EY Rank: 29
+ROIC: 13.6
+Liq: 222155.0
+ROIC Rank: 44
+Overall Rank value: 73
+Overall Rank: 17
+
+
+Code: VALE3
+Company: VALE ON NM
+Price: 102.0
+EBIT: 7.72196E10
+EV: 5.74109E11
+EY: 0.13450337827834088
+EY Rank: 58
+ROIC: 20.1
+Liq: 2.91015E9
+ROIC Rank: 15
+Overall Rank value: 73
+Overall Rank: 18
+
+
+Code: EQPA3
+Company: EQTL PARA ON
+Price: 3.57
+EBIT: 1.42266E9
+EV: 9.61865E9
+EY: 0.14790641098283022
+EY Rank: 49
+ROIC: 15.3
+Liq: 221063.0
+ROIC Rank: 30
+Overall Rank value: 79
+Overall Rank: 19
+
+
+Code: WSON33
+Company: Wilson Sons DR3
+Price: 43.65
+EBIT: 7.3264E8
+EV: 5.15676E9
+EY: 0.14207370519473467
+EY Rank: 52
+ROIC: 15.1
+Liq: 1907570.0
+ROIC Rank: 33
+Overall Rank value: 85
+Overall Rank: 20
+
+
+Code: TRPL4
+Company: TRANSMISSÃO PAULISTA PN N1
+Price: 27.98
+EBIT: 2.99596E9
+EV: 2.0411E10
+EY: 0.146781637352408
+EY Rank: 51
+ROIC: 14.5
+Liq: 4.00092E7
+ROIC Rank: 35
+Overall Rank value: 86
+Overall Rank: 21
+
+
+Code: CRPG5
+Company: CRISTAL PNA
+Price: 43.16
+EBIT: 1.1541E8
+EV: 1.0542E9
+EY: 0.10947638019351166
+EY Rank: 69
+ROIC: 16.4
+Liq: 631220.0
+ROIC Rank: 21
+Overall Rank value: 90
+Overall Rank: 22
+
+
+Code: ENAT3
+Company: ENAUTA PART ON
+Price: 12.09
+EBIT: 3.2116E8
+EV: 1.6957E9
+EY: 0.18939670932358318
+EY Rank: 32
+ROIC: 11.9
+Liq: 2.2355E7
+ROIC Rank: 59
+Overall Rank value: 91
+Overall Rank: 23
+
+
+Code: PCAR3
+Company: PÃO DE AÇÚCAR ON
+Price: 76.54
+EBIT: 5.41E9
+EV: 3.06507E10
+EY: 0.176504941159582
+EY Rank: 37
+ROIC: 12.3
+Liq: 1.0359E8
+ROIC Rank: 56
+Overall Rank value: 93
+Overall Rank: 24
+
+
+Code: ALUP11
+Company: ALUPAR UNT N2
+Price: 26.51
+EBIT: 2.21925E9
+EV: 1.41826E10
+EY: 0.15647695062964478
+EY Rank: 44
+ROIC: 12.3
+Liq: 2.02483E7
+ROIC Rank: 55
+Overall Rank value: 99
+Overall Rank: 25
+
+
+Code: TIET11
+Company: AES TIETE E UNT N2
+Price: 16.54
+EBIT: 8.63216E8
+EV: 9.39936E9
+EY: 0.09183774214414599
+EY Rank: 85
+ROIC: 17.3
+Liq: 2.51141E7
+ROIC Rank: 17
+Overall Rank value: 102
+Overall Rank: 26
+
+
+Code: TIET3
+Company: AES TIETE E ON N2
+Price: 3.32
+EBIT: 8.63216E8
+EV: 9.42331E9
+EY: 0.09160433011330414
+EY Rank: 86
+ROIC: 17.3
+Liq: 851166.0
+ROIC Rank: 18
+Overall Rank value: 104
+Overall Rank: 27
+
+
+Code: CSMG3
+Company: COPASA MG ON
+Price: 16.56
+EBIT: 1.28295E9
+EV: 8.52555E9
+EY: 0.15048296004363354
+EY Rank: 47
+ROIC: 12.0
+Liq: 4.01499E7
+ROIC Rank: 58
+Overall Rank value: 105
+Overall Rank: 28
+
+
+Code: ODPV3
+Company: ODONTOPREV ON NM
+Price: 14.58
+EBIT: 5.6837E8
+EV: 6.88875E9
+EY: 0.08250698602794411
+EY Rank: 101
+ROIC: 49.1
+Liq: 2.30733E7
+ROIC Rank: 4
+Overall Rank value: 105
+Overall Rank: 29
+
+
+Code: TIET4
+Company: AES TIETE E PN N2
+Price: 3.33
+EBIT: 8.63216E8
+EV: 9.44327E9
+EY: 0.09141070836691104
+EY Rank: 87
+ROIC: 17.3
+Liq: 1976460.0
+ROIC Rank: 19
+Overall Rank value: 106
+Overall Rank: 30
+
+
+Code: CARD3
+Company: CSU CARDSYST ON NM
+Price: 14.95
+EBIT: 6.2384E7
+EV: 6.52541E8
+EY: 0.09560165568140545
+EY Rank: 84
+ROIC: 15.8
+Liq: 2833560.0
+ROIC Rank: 24
+Overall Rank value: 108
+Overall Rank: 31
+
+
+Code: UNIP3
+Company: UNIPAR PARTICIPAÇÕES S.A. ON
+Price: 52.99
+EBIT: 4.82351E8
+EV: 4.82713E9
+EY: 0.09992500719889458
+EY Rank: 77
+ROIC: 15.1
+Liq: 835999.0
+ROIC Rank: 31
+Overall Rank value: 108
+Overall Rank: 32
+
+
+Code: CPLE3
+Company: COPEL ON
+Price: 67.87
+EBIT: 4.27471E9
+EV: 2.5282E10
+EY: 0.16908116446483665
+EY Rank: 39
+ROIC: 10.7
+Liq: 1.24399E7
+ROIC Rank: 71
+Overall Rank value: 110
+Overall Rank: 33
+
+
+Code: TAEE11
+Company: TAESA UNT
+Price: 32.9
+EBIT: 1.70353E9
+EV: 1.61704E10
+EY: 0.1053486617523376
+EY Rank: 72
+ROIC: 14.2
+Liq: 1.00717E8
+ROIC Rank: 38
+Overall Rank value: 110
+Overall Rank: 34
+
+
+Code: QUAL3
+Company: QUALICORP ON NM
+Price: 33.85
+EBIT: 7.78206E8
+EV: 9.96892E9
+EY: 0.07806322048928069
+EY Rank: 105
+ROIC: 31.9
+Liq: 9.95963E7
+ROIC Rank: 6
+Overall Rank value: 111
+Overall Rank: 35
+
+
+Code: TAEE3
+Company: TAESA ON N2
+Price: 10.98
+EBIT: 1.70353E9
+EV: 1.61842E10
+EY: 0.10525883268867167
+EY Rank: 73
+ROIC: 14.2
+Liq: 1072650.0
+ROIC Rank: 39
+Overall Rank value: 112
+Overall Rank: 36
+
+
+Code: UNIP6
+Company: UNIPAR PARTICIPAÇÕES S.A. PNB
+Price: 53.94
+EBIT: 4.82351E8
+EV: 4.91684E9
+EY: 0.09810182963041303
+EY Rank: 80
+ROIC: 15.1
+Liq: 1.61664E7
+ROIC Rank: 32
+Overall Rank value: 112
+Overall Rank: 37
+
+
+Code: TEND3
+Company: Tenda ON NM
+Price: 29.02
+EBIT: 3.37594E8
+EV: 2.7774E9
+EY: 0.12155037085043566
+EY Rank: 62
+ROIC: 12.9
+Liq: 3.57904E7
+ROIC Rank: 51
+Overall Rank value: 113
+Overall Rank: 38
+
+
+Code: CPLE6
+Company: COPEL PNB
+Price: 73.32
+EBIT: 4.27471E9
+EV: 2.67735E10
+EY: 0.15966197919584663
+EY Rank: 42
+ROIC: 10.7
+Liq: 9.49449E7
+ROIC Rank: 72
+Overall Rank value: 114
+Overall Rank: 39
+
+
+Code: TAEE4
+Company: TAESA PN N2
+Price: 10.99
+EBIT: 1.70353E9
+EV: 1.61945E10
+EY: 0.10519188613418136
+EY Rank: 74
+ROIC: 14.2
+Liq: 2207000.0
+ROIC Rank: 40
+Overall Rank value: 114
+Overall Rank: 40
+
+
+Code: CMIG4
+Company: CEMIG PN N1
+Price: 15.25
+EBIT: 5.04947E9
+EV: 3.41576E10
+EY: 0.1478285945148371
+EY Rank: 50
+ROIC: 10.9
+Liq: 1.37063E8
+ROIC Rank: 68
+Overall Rank value: 118
+Overall Rank: 41
+
+
+Code: PFRM3
+Company: PROFARMA ON NM
+Price: 6.72
+EBIT: 2.05836E8
+EV: 1.03473E9
+EY: 0.1989272563857238
+EY Rank: 31
+ROIC: 9.5
+Liq: 4872510.0
+ROIC Rank: 90
+Overall Rank value: 121
+Overall Rank: 42
+
+
+Code: WHRL4
+Company: WHIRLPOOL S.A. PN
+Price: 8.17
+EBIT: 7.52535E8
+EV: 1.07188E10
+EY: 0.0702070194424749
+EY Rank: 116
+ROIC: 37.0
+Liq: 351942.0
+ROIC Rank: 5
+Overall Rank value: 121
+Overall Rank: 43
+
+
+Code: CAML3
+Company: CAMIL ON NM
+Price: 11.19
+EBIT: 5.97695E8
+EV: 5.61745E9
+EY: 0.1063997009319175
+EY Rank: 70
+ROIC: 12.8
+Liq: 2.47843E7
+ROIC Rank: 52
+Overall Rank value: 122
+Overall Rank: 44
+
+
+Code: TESA3
+Company: TERRA SANTA ON NM
+Price: 29.05
+EBIT: 2.54873E8
+EV: 1.71071E9
+EY: 0.14898667804595753
+EY Rank: 48
+ROIC: 10.3
+Liq: 1676880.0
+ROIC Rank: 75
+Overall Rank value: 123
+Overall Rank: 45
+
+
+Code: CGAS5
+Company: COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS PNAS
+Price: 171.45
+EBIT: 1.97124E9
+EV: 2.7477E10
+EY: 0.07174145649088329
+EY Rank: 112
+ROIC: 24.9
+Liq: 1255360.0
+ROIC Rank: 11
+Overall Rank value: 123
+Overall Rank: 46
+
+
+Code: CMIG3
+Company: CEMIG ON N1
+Price: 17.37
+EBIT: 5.04947E9
+EV: 3.73774E10
+EY: 0.13509420130881228
+EY Rank: 56
+ROIC: 10.9
+Liq: 1.17039E7
+ROIC Rank: 69
+Overall Rank value: 125
+Overall Rank: 47
+
+
+Code: SMLS3
+Company: SMILES ON NM
+Price: 22.69
+EBIT: 2.96147E8
+EV: 2.31053E9
+EY: 0.12817275689993204
+EY Rank: 59
+ROIC: 10.9
+Liq: 3.31118E7
+ROIC Rank: 67
+Overall Rank value: 126
+Overall Rank: 48
+
+
+Code: LEVE3
+Company: MAHLE METAL LEVE ON
+Price: 20.99
+EBIT: 2.68793E8
+EV: 2.78551E9
+EY: 0.09649687130902421
+EY Rank: 82
+ROIC: 13.6
+Liq: 7227500.0
+ROIC Rank: 45
+Overall Rank value: 127
+Overall Rank: 49
+
+
+Code: CPFE3
+Company: CPFL ENERGIA S.A. ON
+Price: 31.42
+EBIT: 5.01363E9
+EV: 4.828E10
+EY: 0.10384486329743164
+EY Rank: 76
+ROIC: 12.6
+Liq: 7.3324E7
+ROIC Rank: 53
+Overall Rank value: 129
+Overall Rank: 50
+
+
+Code: EGIE3
+Company: ENGIE BRASIL ON
+Price: 44.26
+EBIT: 4.12676E9
+EV: 4.843E10
+EY: 0.08521081973983069
+EY Rank: 97
+ROIC: 14.7
+Liq: 8.34855E7
+ROIC Rank: 34
+Overall Rank value: 131
+Overall Rank: 51
+
+
+Code: TOTS3
+Company: TOTVS ON NM
+Price: 28.0
+EBIT: 9.89379E8
+EV: 1.53511E10
+EY: 0.06445003941085656
+EY Rank: 124
+ROIC: 26.3
+Liq: 2.20511E8
+ROIC Rank: 8
+Overall Rank value: 132
+Overall Rank: 52
+
+
+Code: ENBR3
+Company: EDP ENERGIAS DO BRASIL S/A ON
+Price: 19.36
+EBIT: 2.37097E9
+EV: 1.75595E10
+EY: 0.13502491528802074
+EY Rank: 57
+ROIC: 10.1
+Liq: 5.6098E7
+ROIC Rank: 79
+Overall Rank value: 136
+Overall Rank: 53
+
+
+Code: ECOR3
+Company: ECORODOVIAS ON NM
+Price: 12.94
+EBIT: 1.30145E9
+EV: 1.42716E10
+EY: 0.09119159729813055
+EY Rank: 88
+ROIC: 13.0
+Liq: 5.01862E7
+ROIC Rank: 48
+Overall Rank value: 136
+Overall Rank: 54
+
+
+Code: CRFB3
+Company: CARREFOUR BR ON NM
+Price: 19.5
+EBIT: 4.239E9
+EV: 4.41464E10
+EY: 0.09602141964010655
+EY Rank: 83
+ROIC: 12.1
+Liq: 1.06354E8
+ROIC Rank: 57
+Overall Rank value: 140
+Overall Rank: 55
+
+
+Code: PETR4
+Company: PETROBRAS PN
+Price: 31.12
+EBIT: 8.8228E10
+EV: 7.79457E11
+EY: 0.11319161929394438
+EY Rank: 65
+ROIC: 10.2
+Liq: 1.89193E9
+ROIC Rank: 78
+Overall Rank value: 143
+Overall Rank: 56
+
+
+Code: PETR3
+Company: PETROBRAS ON
+Price: 31.59
+EBIT: 8.8228E10
+EV: 7.85588E11
+EY: 0.11230823281414685
+EY Rank: 67
+ROIC: 10.2
+Liq: 4.74305E8
+ROIC Rank: 77
+Overall Rank value: 144
+Overall Rank: 57
+
+
+Code: NEOE3
+Company: NEOENERGIA ON NM
+Price: 18.03
+EBIT: 5.07858E9
+EV: 4.26748E10
+EY: 0.11900653312962217
+EY Rank: 63
+ROIC: 9.5
+Liq: 5.75492E7
+ROIC Rank: 88
+Overall Rank value: 151
+Overall Rank: 58
+
+
+Code: CSNA3
+Company: CSN ON
+Price: 38.76
+EBIT: 6.0268E9
+EV: 8.14088E10
+EY: 0.07403130865459262
+EY Rank: 110
+ROIC: 13.7
+Liq: 3.54614E8
+ROIC Rank: 41
+Overall Rank value: 151
+Overall Rank: 59
+
+
+Code: EUCA4
+Company: EUCATEX PN
+Price: 7.45
+EBIT: 1.76946E8
+EV: 1.13031E9
+EY: 0.15654643416407887
+EY Rank: 43
+ROIC: 7.5
+Liq: 861493.0
+ROIC Rank: 113
+Overall Rank value: 156
+Overall Rank: 60
+
+
+Code: FESA4
+Company: FERBASA PN
+Price: 22.59
+EBIT: 2.4012E8
+EV: 2.26439E9
+EY: 0.10604180375288709
+EY Rank: 71
+ROIC: 9.6
+Liq: 5224640.0
+ROIC Rank: 87
+Overall Rank value: 158
+Overall Rank: 61
+
+
+Code: SLCE3
+Company: SLC Agricola ON NM
+Price: 31.35
+EBIT: 6.55497E8
+EV: 7.34935E9
+EY: 0.08919115295910522
+EY Rank: 89
+ROIC: 10.8
+Liq: 2.8695E7
+ROIC Rank: 70
+Overall Rank value: 159
+Overall Rank: 62
+
+
+Code: SEER3
+Company: SER EDUCA ON NM
+Price: 14.73
+EBIT: 2.06246E8
+EV: 1.80037E9
+EY: 0.11455756316757111
+EY Rank: 64
+ROIC: 9.4
+Liq: 1.5013E7
+ROIC Rank: 95
+Overall Rank value: 159
+Overall Rank: 63
+
+
+Code: BSEV3
+Company: BIOSEV ON NM
+Price: 6.4
+EBIT: 1.16855E9
+EV: 1.35037E10
+EY: 0.08653554211068078
+EY Rank: 95
+ROIC: 11.1
+Liq: 542556.0
+ROIC Rank: 65
+Overall Rank value: 160
+Overall Rank: 64
+
+
+Code: KEPL3
+Company: KEPLER WEBER SA ON
+Price: 36.99
+EBIT: 6.7379E7
+EV: 8.20544E8
+EY: 0.08211503587863661
+EY Rank: 102
+ROIC: 11.8
+Liq: 6862790.0
+ROIC Rank: 60
+Overall Rank value: 162
+Overall Rank: 65
+
+
+Code: ELET3
+Company: ELETROBRÁS ON
+Price: 34.98
+EBIT: 1.26729E10
+EV: 9.06136E10
+EY: 0.13985648953357996
+EY Rank: 54
+ROIC: 7.7
+Liq: 2.07847E8
+ROIC Rank: 109
+Overall Rank value: 163
+Overall Rank: 66
+
+
+Code: TIMS3
+Company: TIM ON NM
+Price: 14.1
+EBIT: 3.29661E9
+EV: 3.30895E10
+EY: 0.09962707203191344
+EY Rank: 78
+ROIC: 9.7
+Liq: 7.97172E7
+ROIC Rank: 85
+Overall Rank value: 163
+Overall Rank: 67
+
+
+Code: ELET6
+Company: ELETROBRÁS PNB
+Price: 35.3
+EBIT: 1.26729E10
+EV: 9.11156E10
+EY: 0.13908595235064028
+EY Rank: 55
+ROIC: 7.7
+Liq: 7.90513E7
+ROIC Rank: 110
+Overall Rank value: 165
+Overall Rank: 68
+
+
+Code: RANI3
+Company: CELULOSE IRANI ON
+Price: 5.95
+EBIT: 1.50611E8
+EV: 1.79051E9
+EY: 0.08411625737918246
+EY Rank: 99
+ROIC: 11.1
+Liq: 1.06643E7
+ROIC Rank: 66
+Overall Rank value: 165
+Overall Rank: 69
+
+
+Code: ABEV3
+Company: AMBEV S/A ON
+Price: 16.53
+EBIT: 1.37895E10
+EV: 2.43853E11
+EY: 0.056548412363186015
+EY Rank: 140
+ROIC: 15.5
+Liq: 4.76018E8
+ROIC Rank: 26
+Overall Rank value: 166
+Overall Rank: 70
+
+
+Code: SBSP3
+Company: SABESP ON NM
+Price: 43.62
+EBIT: 4.30765E9
+EV: 4.32636E10
+EY: 0.09956753483297738
+EY Rank: 79
+ROIC: 9.4
+Liq: 1.76462E8
+ROIC Rank: 94
+Overall Rank value: 173
+Overall Rank: 71
+
+
+Code: LPSB3
+Company: LOPES BRASIL ON NM
+Price: 4.84
+EBIT: 3.2869E7
+EV: 5.77467E8
+EY: 0.056919269845722785
+EY Rank: 139
+ROIC: 14.3
+Liq: 5041660.0
+ROIC Rank: 37
+Overall Rank value: 176
+Overall Rank: 72
+
+
+Code: AGRO3
+Company: BRASILAGRO ON NM
+Price: 25.9
+EBIT: 1.75569E8
+EV: 2.00655E9
+EY: 0.08749794423263811
+EY Rank: 93
+ROIC: 9.7
+Liq: 6685100.0
+ROIC Rank: 84
+Overall Rank value: 177
+Overall Rank: 73
+
+
+Code: OFSA3
+Company: OUROFINO S/A ON NM
+Price: 36.6
+EBIT: 1.12968E8
+EV: 2.12717E9
+EY: 0.05310717996210928
+EY Rank: 141
+ROIC: 14.5
+Liq: 709079.0
+ROIC Rank: 36
+Overall Rank value: 177
+Overall Rank: 74
+
+
+Code: TRIS3
+Company: Trisul ON NM
+Price: 11.22
+EBIT: 1.66366E8
+EV: 2.15863E9
+EY: 0.07707017877079445
+EY Rank: 106
+ROIC: 10.5
+Liq: 1.86331E7
+ROIC Rank: 74
+Overall Rank value: 180
+Overall Rank: 75
+
+
+Code: BRFS3
+Company: BRF Foods ON NM
+Price: 21.98
+EBIT: 2.83102E9
+EV: 3.21609E10
+EY: 0.08802676542012194
+EY Rank: 92
+ROIC: 9.5
+Liq: 2.27755E8
+ROIC Rank: 89
+Overall Rank value: 181
+Overall Rank: 76
+
+
+Code: RAPT3
+Company: RANDON S.A. IMPLEMENTOS E PARTICIPAÇÕES ON N1
+Price: 11.17
+EBIT: 4.70257E8
+EV: 5.29292E9
+EY: 0.0888464212570755
+EY Rank: 90
+ROIC: 9.3
+Liq: 211208.0
+ROIC Rank: 96
+Overall Rank value: 186
+Overall Rank: 77
+
+
+Code: B3SA3
+Company: B3 ON
+Price: 62.69
+EBIT: 5.04479E9
+EV: 1.21333E11
+EY: 0.041578053785862046
+EY Rank: 166
+ROIC: 16.5
+Liq: 7.72434E8
+ROIC Rank: 20
+Overall Rank value: 186
+Overall Rank: 78
+
+
+Code: PARD3
+Company: IHPARDINI ON NM
+Price: 22.18
+EBIT: 1.81244E8
+EV: 3.07005E9
+EY: 0.05903617204931516
+EY Rank: 135
+ROIC: 12.4
+Liq: 1.43249E7
+ROIC Rank: 54
+Overall Rank value: 189
+Overall Rank: 79
+
+
+Code: CTKA4
+Company: KARSTEN PN
+Price: 18.83
+EBIT: 4.1994E7
+EV: 5.94688E8
+EY: 0.07061517972449419
+EY Rank: 115
+ROIC: 10.3
+Liq: 293215.0
+ROIC Rank: 76
+Overall Rank value: 191
+Overall Rank: 80
+
+
+Code: LAME3
+Company: LOJAS AMERICANAS S.A. ON
+Price: 18.81
+EBIT: 2.09923E9
+EV: 3.51476E10
+EY: 0.05972612639269822
+EY Rank: 133
+ROIC: 11.7
+Liq: 4.42637E7
+ROIC Rank: 62
+Overall Rank value: 195
+Overall Rank: 81
+
+
+Code: PINE4
+Company: Pine PN
+Price: 2.39
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 1
+ROIC: 0.0
+Liq: 1022050.0
+ROIC Rank: 195
+Overall Rank value: 196
+Overall Rank: 82
+
+
+Code: IDVL3
+Company: Indusval ON N1
+Price: 2.16
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 2
+ROIC: 0.0
+Liq: 203481.0
+ROIC Rank: 196
+Overall Rank value: 198
+Overall Rank: 83
+
+
+Code: VVAR3
+Company: VIAVAREJO ON
+Price: 15.53
+EBIT: 2.132E9
+EV: 3.08197E10
+EY: 0.06917653319143276
+EY Rank: 118
+ROIC: 9.9
+Liq: 8.42389E8
+ROIC Rank: 81
+Overall Rank value: 199
+Overall Rank: 84
+
+
+Code: CLSC4
+Company: CELESC PN N2
+Price: 54.4
+EBIT: 4.22111E8
+EV: 2.78472E9
+EY: 0.15158112844379326
+EY Rank: 46
+ROIC: 5.0
+Liq: 393714.0
+ROIC Rank: 156
+Overall Rank value: 202
+Overall Rank: 85
+
+
+Code: MOVI3
+Company: MOVIDA ON NM
+Price: 20.1
+EBIT: 5.0178E8
+EV: 8.18934E9
+EY: 0.061272336964883614
+EY Rank: 129
+ROIC: 10.6
+Liq: 4.43057E7
+ROIC Rank: 73
+Overall Rank value: 202
+Overall Rank: 86
+
+
+Code: SMTO3
+Company: SAO MARTINHO ON NM
+Price: 31.09
+EBIT: 1.00724E9
+EV: 1.54803E10
+EY: 0.06506592249504209
+EY Rank: 123
+ROIC: 9.9
+Liq: 3.18699E7
+ROIC Rank: 82
+Overall Rank value: 205
+Overall Rank: 87
+
+
+Code: PGMN3
+Company: PAGUE MENOS ON NM
+Price: 9.02
+EBIT: 3.31309E8
+EV: 4.30187E9
+EY: 0.07701511203267417
+EY Rank: 107
+ROIC: 8.5
+Liq: 4054970.0
+ROIC Rank: 101
+Overall Rank value: 208
+Overall Rank: 88
+
+
+Code: GRND3
+Company: GRENDENE SA ON
+Price: 8.34
+EBIT: 2.96149E8
+EV: 6.18915E9
+EY: 0.04784970472520459
+EY Rank: 148
+ROIC: 11.7
+Liq: 1.38196E7
+ROIC Rank: 61
+Overall Rank value: 209
+Overall Rank: 89
+
+
+Code: JHSF3
+Company: JHSF Part ON NM
+Price: 7.4
+EBIT: 4.69603E8
+EV: 5.53219E9
+EY: 0.0848855516531428
+EY Rank: 98
+ROIC: 7.6
+Liq: 6.53393E7
+ROIC Rank: 112
+Overall Rank value: 210
+Overall Rank: 90
+
+
+Code: ENGI4
+Company: ENERGISA PN
+Price: 8.19
+EBIT: 2.5747E9
+EV: 2.90429E10
+EY: 0.08865161536898863
+EY Rank: 91
+ROIC: 7.1
+Liq: 320721.0
+ROIC Rank: 119
+Overall Rank value: 210
+Overall Rank: 91
+
+
+Code: LAME4
+Company: LOJAS AMERICANAS S.A. PN
+Price: 23.84
+EBIT: 2.09923E9
+EV: 4.45413E10
+EY: 0.04712996701937303
+EY Rank: 150
+ROIC: 11.7
+Liq: 2.49556E8
+ROIC Rank: 63
+Overall Rank value: 213
+Overall Rank: 92
+
+
+Code: DIRR3
+Company: Direcional Engenharia ON NM
+Price: 13.21
+EBIT: 2.32168E8
+EV: 2.09441E9
+EY: 0.11085126598898974
+EY Rank: 68
+ROIC: 5.7
+Liq: 1.72221E7
+ROIC Rank: 146
+Overall Rank value: 214
+Overall Rank: 93
+
+
+Code: RAPT4
+Company: RANDON S.A. IMPLEMENTOS E PARTICIPAÇÕES PN N1
+Price: 15.39
+EBIT: 4.70257E8
+EV: 6.75209E9
+EY: 0.0696461391954195
+EY Rank: 117
+ROIC: 9.3
+Liq: 5.55214E7
+ROIC Rank: 97
+Overall Rank value: 214
+Overall Rank: 94
+
+
+Code: BBSE3
+Company: BBSEGURIDADE ON NM
+Price: 29.87
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 3
+ROIC: 0.0
+Liq: 1.36147E8
+ROIC Rank: 212
+Overall Rank value: 215
+Overall Rank: 95
+
+
+Code: EALT4
+Company: ELECTRO AÇO ALTONA S/A PN
+Price: 4.99
+EBIT: 2.0923E7
+EV: 1.84933E8
+EY: 0.11313827169839888
+EY Rank: 66
+ROIC: 5.5
+Liq: 332416.0
+ROIC Rank: 149
+Overall Rank value: 215
+Overall Rank: 96
+
+
+Code: WEGE3
+Company: WEG SA ON N1
+Price: 89.78
+EBIT: 2.91968E9
+EV: 1.8679E11
+EY: 0.015630815354141014
+EY Rank: 202
+ROIC: 20.5
+Liq: 4.07541E8
+ROIC Rank: 14
+Overall Rank value: 216
+Overall Rank: 97
+
+
+Code: IRBR3
+Company: IRBBRASIL RE ON NM
+Price: 8.0
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 4
+ROIC: 0.0
+Liq: 4.21365E8
+ROIC Rank: 215
+Overall Rank value: 219
+Overall Rank: 98
+
+
+Code: ENGI11
+Company: ENERGISA UNT N2
+Price: 49.43
+EBIT: 2.5747E9
+EV: 3.21204E10
+EY: 0.08015778134767935
+EY Rank: 104
+ROIC: 7.1
+Liq: 7.22412E7
+ROIC Rank: 120
+Overall Rank value: 224
+Overall Rank: 99
+
+
+Code: LREN3
+Company: RENNER ON
+Price: 43.1
+EBIT: 1.32075E9
+EV: 3.54175E10
+EY: 0.037290887273240626
+EY Rank: 177
+ROIC: 13.1
+Liq: 3.59628E8
+ROIC Rank: 47
+Overall Rank value: 224
+Overall Rank: 100
+
+
+Code: SCAR3
+Company: SÃO CARLOS EMPREEND.E PARTICIPAÇÕES S.A. ON
+Price: 40.5
+EBIT: 2.19928E8
+EV: 3.32848E9
+EY: 0.06607460462433302
+EY Rank: 122
+ROIC: 8.4
+Liq: 540300.0
+ROIC Rank: 102
+Overall Rank value: 224
+Overall Rank: 101
+
+
+Code: BOAS3
+Company: BOA VISTA ON NM
+Price: 12.78
+EBIT: 1.12845E8
+EV: 6.35548E9
+EY: 0.017755543247716932
+EY Rank: 199
+ROIC: 15.6
+Liq: 2.14843E7
+ROIC Rank: 25
+Overall Rank value: 224
+Overall Rank: 102
+
+
+Code: CCRO3
+Company: COMPANHIA DE CONCESSÕES RODOVIÁRIAS ON NM
+Price: 13.04
+EBIT: 2.48349E9
+EV: 4.02993E10
+EY: 0.06162613246383932
+EY Rank: 128
+ROIC: 8.9
+Liq: 1.40461E8
+ROIC Rank: 99
+Overall Rank value: 227
+Overall Rank: 103
+
+
+Code: BRSR6
+Company: BANRISUL S/A PNB
+Price: 14.21
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 5
+ROIC: 0.0
+Liq: 3.07492E7
+ROIC Rank: 225
+Overall Rank value: 230
+Overall Rank: 104
+
+
+Code: BBAS3
+Company: BANCO DO BRASIL S.A. ON
+Price: 39.79
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 6
+ROIC: 0.0
+Liq: 6.59208E8
+ROIC Rank: 226
+Overall Rank value: 232
+Overall Rank: 105
+
+
+Code: GPCP3
+Company: GPC PARTICIPACOES SA ON
+Price: 26.28
+EBIT: 5.8614E7
+EV: 9.14557E8
+EY: 0.06409004578172821
+EY Rank: 125
+ROIC: 7.9
+Liq: 3903360.0
+ROIC Rank: 107
+Overall Rank value: 232
+Overall Rank: 106
+
+
+Code: BEES3
+Company: BANESTES S/A ON
+Price: 5.49
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 7
+ROIC: 0.0
+Liq: 349173.0
+ROIC Rank: 227
+Overall Rank value: 234
+Overall Rank: 107
+
+
+Code: GOAU3
+Company: METALÚRGICA GERDAU ON N1
+Price: 11.02
+EBIT: 2.54436E9
+EV: 2.43224E10
+EY: 0.10460974245962569
+EY Rank: 75
+ROIC: 4.9
+Liq: 764473.0
+ROIC Rank: 159
+Overall Rank value: 234
+Overall Rank: 108
+
+
+Code: BMGB4
+Company: BANCO BMG PN N1
+Price: 5.93
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 8
+ROIC: 0.0
+Liq: 1.10617E7
+ROIC Rank: 228
+Overall Rank value: 236
+Overall Rank: 109
+
+
+Code: MDIA3
+Company: M.DIASBRANCO ON NM
+Price: 33.99
+EBIT: 6.98611E8
+EV: 1.18501E10
+EY: 0.05895401726567708
+EY Rank: 136
+ROIC: 8.6
+Liq: 3.57038E7
+ROIC Rank: 100
+Overall Rank value: 236
+Overall Rank: 110
+
+
+Code: JPSA3
+Company: JEREISSATI PARTICIPACOES ON
+Price: 25.0
+EBIT: 3.33322E8
+EV: 4.12511E9
+EY: 0.08080317858190449
+EY Rank: 103
+ROIC: 6.3
+Liq: 8067600.0
+ROIC Rank: 133
+Overall Rank value: 236
+Overall Rank: 111
+
+
+Code: VIVT3
+Company: TELEF BRASIL ON
+Price: 45.05
+EBIT: 6.09778E9
+EV: 8.04556E10
+EY: 0.07579062240540124
+EY Rank: 108
+ROIC: 6.5
+Liq: 1.00684E8
+ROIC Rank: 129
+Overall Rank value: 237
+Overall Rank: 112
+
+
+Code: VIVA3
+Company: VIVARA S.A. ON NM
+Price: 26.5
+EBIT: 1.71711E8
+EV: 6.00404E9
+EY: 0.028599243176261318
+EY Rank: 188
+ROIC: 13.0
+Liq: 2.82286E7
+ROIC Rank: 49
+Overall Rank value: 237
+Overall Rank: 113
+
+
+Code: ABCB4
+Company: ABC Brasil PN N2
+Price: 16.22
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 9
+ROIC: 0.0
+Liq: 1.31039E7
+ROIC Rank: 229
+Overall Rank value: 238
+Overall Rank: 114
+
+
+Code: SHUL4
+Company: SCHULZ PN
+Price: 14.03
+EBIT: 8.6733E7
+EV: 1.45751E9
+EY: 0.05950765346378412
+EY Rank: 134
+ROIC: 8.1
+Liq: 3399680.0
+ROIC Rank: 104
+Overall Rank value: 238
+Overall Rank: 115
+
+
+Code: VIVT4
+Company: TELEF BRASIL PN
+Price: 45.34
+EBIT: 6.09778E9
+EV: 8.0946E10
+EY: 0.07533145553826008
+EY Rank: 109
+ROIC: 6.5
+Liq: 2.80634E7
+ROIC Rank: 130
+Overall Rank value: 239
+Overall Rank: 116
+
+
+Code: SANB3
+Company: SANTANDER ON
+Price: 21.6
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 10
+ROIC: 0.0
+Liq: 2668750.0
+ROIC Rank: 230
+Overall Rank value: 240
+Overall Rank: 117
+
+
+Code: GOAU4
+Company: METALÚRGICA GERDAU PN N1
+Price: 12.88
+EBIT: 2.54436E9
+EV: 2.63447E10
+EY: 0.09657957767596519
+EY Rank: 81
+ROIC: 4.9
+Liq: 1.26571E8
+ROIC Rank: 160
+Overall Rank value: 241
+Overall Rank: 118
+
+
+Code: SANB11
+Company: SANTANDER UNT
+Price: 45.89
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 11
+ROIC: 0.0
+Liq: 1.32503E8
+ROIC Rank: 231
+Overall Rank value: 242
+Overall Rank: 119
+
+
+Code: CCPR3
+Company: CYRELA COMMERCIAL PROPERTIES SA EMP PART ON
+Price: 12.88
+EBIT: 2.48713E8
+EV: 2.84779E9
+EY: 0.08733544257125701
+EY Rank: 94
+ROIC: 5.6
+Liq: 1.14588E7
+ROIC Rank: 148
+Overall Rank value: 242
+Overall Rank: 120
+
+
+Code: ALPA4
+Company: ALPARGATAS PN N1
+Price: 40.7
+EBIT: 4.9812E8
+EV: 2.36285E10
+EY: 0.021081321285735446
+EY Rank: 197
+ROIC: 13.3
+Liq: 1.04847E8
+ROIC Rank: 46
+Overall Rank value: 243
+Overall Rank: 121
+
+
+Code: BBDC3
+Company: BANCO BRADESCO S.A. ON N1
+Price: 24.46
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 12
+ROIC: 0.0
+Liq: 1.27142E8
+ROIC Rank: 232
+Overall Rank value: 244
+Overall Rank: 122
+
+
+Code: HAPV3
+Company: HAPVIDA ON NM
+Price: 16.78
+EBIT: 1.35807E9
+EV: 6.18301E10
+EY: 0.021964544776734957
+EY Rank: 195
+ROIC: 13.0
+Liq: 1.33826E8
+ROIC Rank: 50
+Overall Rank value: 245
+Overall Rank: 123
+
+
+Code: KLBN3
+Company: KLABIN ON N2
+Price: 5.91
+EBIT: 2.47657E9
+EV: 5.42545E10
+EY: 0.04564727349805085
+EY Rank: 155
+ROIC: 9.4
+Liq: 2058640.0
+ROIC Rank: 91
+Overall Rank value: 246
+Overall Rank: 124
+
+
+Code: KLBN11
+Company: KLABIN UNT N2
+Price: 29.28
+EBIT: 2.47657E9
+EV: 5.39512E10
+EY: 0.04590389092364952
+EY Rank: 154
+ROIC: 9.4
+Liq: 1.44316E8
+ROIC Rank: 92
+Overall Rank value: 246
+Overall Rank: 125
+
+
+Code: KLBN4
+Company: KLABIN PN N2
+Price: 5.81
+EBIT: 2.47657E9
+EV: 5.36928E10
+EY: 0.04612480630550092
+EY Rank: 153
+ROIC: 9.4
+Liq: 9319490.0
+ROIC Rank: 93
+Overall Rank value: 246
+Overall Rank: 126
+
+
+Code: SANB4
+Company: SANTANDER PN
+Price: 24.2
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 13
+ROIC: 0.0
+Liq: 4063920.0
+ROIC Rank: 233
+Overall Rank value: 246
+Overall Rank: 127
+
+
+Code: FLRY3
+Company: FLEURY ON NM
+Price: 27.39
+EBIT: 4.07811E8
+EV: 9.48089E9
+EY: 0.04301399974053069
+EY Rank: 160
+ROIC: 9.6
+Liq: 4.79775E7
+ROIC Rank: 86
+Overall Rank value: 246
+Overall Rank: 128
+
+
+Code: ITUB3
+Company: ITAUUNIBANCO ON N1
+Price: 28.99
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 14
+ROIC: 0.0
+Liq: 2.1085E7
+ROIC Rank: 234
+Overall Rank value: 248
+Overall Rank: 129
+
+
+Code: RLOG3
+Company: COSAN LOG ON NM
+Price: 19.74
+EBIT: 2.01068E9
+EV: 2.34479E10
+EY: 0.08575096277278563
+EY Rank: 96
+ROIC: 5.4
+Liq: 2.76749E7
+ROIC Rank: 152
+Overall Rank value: 248
+Overall Rank: 130
+
+
+Code: BBDC4
+Company: BANCO BRADESCO S.A. PN N1
+Price: 27.6
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 15
+ROIC: 0.0
+Liq: 1.24174E9
+ROIC Rank: 235
+Overall Rank value: 250
+Overall Rank: 131
+
+
+Code: TGMA3
+Company: Tegma ON NM
+Price: 27.12
+EBIT: 7.4673E7
+EV: 1.80437E9
+EY: 0.04138452756363717
+EY Rank: 167
+ROIC: 9.9
+Liq: 1.46635E7
+ROIC Rank: 83
+Overall Rank value: 250
+Overall Rank: 132
+
+
+Code: COCE5
+Company: CIA ENERG CEARA - COELCE PNA
+Price: 57.84
+EBIT: 5.01077E8
+EV: 6.79092E9
+EY: 0.07378632055745024
+EY Rank: 111
+ROIC: 5.9
+Liq: 852158.0
+ROIC Rank: 140
+Overall Rank value: 251
+Overall Rank: 133
+
+
+Code: ITUB4
+Company: ITAUUNIBANCO PN N1
+Price: 32.82
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 16
+ROIC: 0.0
+Liq: 1.13439E9
+ROIC Rank: 236
+Overall Rank value: 252
+Overall Rank: 134
+
+
+Code: BPAN4
+Company: BANCO PAN PN
+Price: 9.57
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 17
+ROIC: 0.0
+Liq: 2.24014E7
+ROIC Rank: 237
+Overall Rank value: 254
+Overall Rank: 135
+
+
+Code: GNDI3
+Company: INTERMEDICA ON NM
+Price: 91.4
+EBIT: 1.46313E9
+EV: 5.55632E10
+EY: 0.026332716618193336
+EY Rank: 191
+ROIC: 11.5
+Liq: 3.90075E8
+ROIC Rank: 64
+Overall Rank value: 255
+Overall Rank: 136
+
+
+Code: BRKM3
+Company: BRASKEM ON N1
+Price: 25.3
+EBIT: 3.56138E9
+EV: 5.01854E10
+EY: 0.07096446376834697
+EY Rank: 114
+ROIC: 5.8
+Liq: 474061.0
+ROIC Rank: 142
+Overall Rank value: 256
+Overall Rank: 137
+
+
+Code: BRKM5
+Company: BRASKEM PNA N1
+Price: 24.69
+EBIT: 3.56138E9
+EV: 4.96991E10
+EY: 0.07165884291667253
+EY Rank: 113
+ROIC: 5.8
+Liq: 1.0157E8
+ROIC Rank: 143
+Overall Rank value: 256
+Overall Rank: 138
+
+
+Code: BPAC5
+Company: BTGP BANCO PNA
+Price: 23.03
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 18
+ROIC: 0.0
+Liq: 237046.0
+ROIC Rank: 238
+Overall Rank value: 256
+Overall Rank: 139
+
+
+Code: ENGI3
+Company: ENERGISA ON
+Price: 16.29
+EBIT: 2.5747E9
+EV: 4.37409E10
+EY: 0.058862529120342746
+EY Rank: 137
+ROIC: 7.1
+Liq: 317289.0
+ROIC Rank: 121
+Overall Rank value: 258
+Overall Rank: 140
+
+
+Code: BPAC11
+Company: BTGP BANCO UNT
+Price: 92.31
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 19
+ROIC: 0.0
+Liq: 2.8632E8
+ROIC Rank: 239
+Overall Rank value: 258
+Overall Rank: 141
+
+
+Code: BPAC3
+Company: BTGP BANCO ON
+Price: 46.02
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 20
+ROIC: 0.0
+Liq: 373595.0
+ROIC Rank: 240
+Overall Rank value: 260
+Overall Rank: 142
+
+
+Code: CGRA4
+Company: GRAZZIOTIN PN
+Price: 38.9
+EBIT: 4.15173E7
+EV: 6.8094E8
+EY: 0.06097057009428143
+EY Rank: 131
+ROIC: 6.4
+Liq: 480055.0
+ROIC Rank: 131
+Overall Rank value: 262
+Overall Rank: 143
+
+
+Code: MULT3
+Company: Multiplan ON N2
+Price: 22.38
+EBIT: 7.13098E8
+EV: 1.51485E10
+EY: 0.047073835693302965
+EY Rank: 151
+ROIC: 7.7
+Liq: 1.47059E8
+ROIC Rank: 111
+Overall Rank value: 262
+Overall Rank: 144
+
+
+Code: BIDI3
+Company: BANCO INTER ON N2
+Price: 39.9
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 21
+ROIC: 0.0
+Liq: 1.10984E7
+ROIC Rank: 241
+Overall Rank value: 262
+Overall Rank: 145
+
+
+Code: TUPY3
+Company: TUPY ON
+Price: 23.59
+EBIT: 2.74306E8
+EV: 4.49866E9
+EY: 0.06097504590255765
+EY Rank: 130
+ROIC: 6.2
+Liq: 2.82581E7
+ROIC Rank: 134
+Overall Rank value: 264
+Overall Rank: 146
+
+
+Code: BIDI11
+Company: BANCO INTER UNT N2
+Price: 120.13
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 22
+ROIC: 0.0
+Liq: 9.65381E7
+ROIC Rank: 242
+Overall Rank value: 264
+Overall Rank: 147
+
+
+Code: CIEL3
+Company: CIELO ON NM
+Price: 3.83
+EBIT: 9.4677E8
+EV: 1.3829E10
+EY: 0.06846265095090028
+EY Rank: 121
+ROIC: 5.8
+Liq: 1.48691E8
+ROIC Rank: 145
+Overall Rank value: 266
+Overall Rank: 148
+
+
+Code: BIDI4
+Company: BANCO INTER PN N2
+Price: 40.16
+EBIT: 0.0
+EV: 0.0
+EY: NaN
+EY Rank: 23
+ROIC: 0.0
+Liq: 6.45847E7
+ROIC Rank: 243
+Overall Rank value: 266
+Overall Rank: 149
+
+
+Code: FRAS3
+Company: FRAS-LE S.A. ON
+Price: 10.54
+EBIT: 1.47015E8
+EV: 2.84234E9
+EY: 0.05172322804449855
+EY Rank: 143
+ROIC: 6.9
+Liq: 1256650.0
+ROIC Rank: 124
+Overall Rank value: 267
+Overall Rank: 150
+
+
+Code: EVEN3
+Company: Even ON NM
+Price: 11.42
+EBIT: 1.70686E8
+EV: 2.03413E9
+EY: 0.08391105779866577
+EY Rank: 100
+ROIC: 4.1
+Liq: 2.05227E7
+ROIC Rank: 169
+Overall Rank value: 269
+Overall Rank: 151
+
+
+Code: MTRE3
+Company: MITRE REALTY ON NM
+Price: 16.18
+EBIT: 4.1728E7
+EV: 9.956E8
+EY: 0.041912414624347125
+EY Rank: 165
+ROIC: 8.1
+Liq: 6795960.0
+ROIC Rank: 105
+Overall Rank value: 270
+Overall Rank: 152
+
+
+Code: YDUQ3
+Company: YDUQS PART ON
+Price: 34.35
+EBIT: 5.72823E8
+EV: 1.35253E10
+EY: 0.042351962618204404
+EY Rank: 163
+ROIC: 7.9
+Liq: 1.32335E8
+ROIC Rank: 108
+Overall Rank value: 271
+Overall Rank: 153
+
+
+Code: RENT3
+Company: LOCALIZA RENT A CAR ON
+Price: 71.0
+EBIT: 1.46542E9
+EV: 6.05563E10
+EY: 0.02419929883430791
+EY Rank: 193
+ROIC: 10.1
+Liq: 3.02539E8
+ROIC Rank: 80
+Overall Rank value: 273
+Overall Rank: 154
+
+
+Code: HYPE3
+Company: HYPERA ON
+Price: 35.31
+EBIT: 9.45369E8
+EV: 2.30096E10
+EY: 0.041085851123009526
+EY Rank: 169
+ROIC: 8.0
+Liq: 1.13595E8
+ROIC Rank: 106
+Overall Rank value: 275
+Overall Rank: 155
+
+
+Code: CESP3
+Company: CESP CIA ENERGETICA SAO PAULO ON
+Price: 28.27
+EBIT: 6.49297E8
+EV: 1.01555E10
+EY: 0.0639355029294471
+EY Rank: 126
+ROIC: 5.5
+Liq: 291462.0
+ROIC Rank: 150
+Overall Rank value: 276
+Overall Rank: 156
+
+
+Code: CESP6
+Company: CESP CIA ENERGETICA SAO PAULO PNB
+Price: 29.17
+EBIT: 6.49297E8
+EV: 1.04502E10
+EY: 0.062132495071864656
+EY Rank: 127
+ROIC: 5.5
+Liq: 5.2939E7
+ROIC Rank: 151
+Overall Rank value: 278
+Overall Rank: 157
+
+
+Code: IGTA3
+Company: IGUATEMI ON NM
+Price: 35.23
+EBIT: 3.55004E8
+EV: 8.06868E9
+EY: 0.043997779066712275
+EY Rank: 158
+ROIC: 6.9
+Liq: 9.51411E7
+ROIC Rank: 123
+Overall Rank value: 281
+Overall Rank: 158
+
+
+Code: LCAM3
+Company: LOCAMERICA ON NM
+Price: 29.24
+EBIT: 6.42055E8
+EV: 1.77272E10
+EY: 0.03621863576876213
+EY Rank: 179
+ROIC: 8.4
+Liq: 8.46588E7
+ROIC Rank: 103
+Overall Rank value: 282
+Overall Rank: 159
+
+
+Code: VLID3
+Company: VALID ON NM
+Price: 9.47
+EBIT: 1.05711E8
+EV: 1.53088E9
+EY: 0.0690524404264214
+EY Rank: 119
+ROIC: 4.4
+Liq: 7444950.0
+ROIC Rank: 165
+Overall Rank value: 284
+Overall Rank: 160
+
+
+Code: ALSO3
+Company: ALIANSCSONAE ON
+Price: 27.15
+EBIT: 4.07802E8
+EV: 5.91194E9
+EY: 0.06897938747686884
+EY Rank: 120
+ROIC: 4.3
+Liq: 4.80547E7
+ROIC Rank: 168
+Overall Rank value: 288
+Overall Rank: 161
+
+
+Code: MRVE3
+Company: MRV ON NM
+Price: 19.19
+EBIT: 7.83053E8
+EV: 1.30644E10
+EY: 0.05993792290499372
+EY Rank: 132
+ROIC: 4.9
+Liq: 1.02998E8
+ROIC Rank: 158
+Overall Rank value: 290
+Overall Rank: 162
 
 
 Code: ANIM3
 Company: ANIMA ON NM
 Price: 35.87
+EBIT: 2.05468E8
+EV: 5.36845E9
 EY: 0.0382732446050536
-EY Rank: 3
+EY Rank: 175
 ROIC: 7.2
 Liq: 3.3532E7
-ROIC Rank: 3
-Overall Rank value: 6
-Overall Rank: 3
+ROIC Rank: 116
+Overall Rank value: 291
+Overall Rank: 163
 
 
-Code: NTCO3
-Company: GRUPO NATURA ON NM
-Price: 50.72
-EY: 0.034053756556159116
-EY Rank: 4
-ROIC: 5.6
-Liq: 3.25718E8
-ROIC Rank: 4
-Overall Rank value: 8
-Overall Rank: 4
+Code: LOGN3
+Company: Log-In ON NM
+Price: 15.35
+EBIT: 9.1496E7
+EV: 2.36385E9
+EY: 0.03870634769549675
+EY Rank: 174
+ROIC: 7.2
+Liq: 1.89228E7
+ROIC Rank: 117
+Overall Rank value: 291
+Overall Rank: 164
 
 
-Code: OMGE3
-Company: OMEGA GER ON NM
-Price: 41.67
-EY: 0.029077751781925024
-EY Rank: 5
-ROIC: 4.6
-Liq: 4.20741E7
-ROIC Rank: 5
-Overall Rank value: 10
-Overall Rank: 5
+Code: CSAN3
+Company: COSAN SA INDUSTRIA E COMERCIO ON
+Price: 82.25
+EBIT: 1.90204E9
+EV: 4.4141E10
+EY: 0.04309009764164835
+EY Rank: 159
+ROIC: 6.4
+Liq: 1.79174E8
+ROIC Rank: 132
+Overall Rank value: 291
+Overall Rank: 165
+
+
+Code: RADL3
+Company: RAIADROGASIL ON
+Price: 24.77
+EBIT: 9.29634E8
+EV: 4.20501E10
+EY: 0.022107771444063153
+EY Rank: 194
+ROIC: 9.2
+Liq: 1.3852E8
+ROIC Rank: 98
+Overall Rank value: 292
+Overall Rank: 166
+
+
+Code: ENEV3
+Company: ENEVA ON
+Price: 62.48
+EBIT: 9.19734E8
+EV: 2.44411E10
+EY: 0.03763063037261007
+EY Rank: 176
+ROIC: 7.2
+Liq: 1.22778E8
+ROIC Rank: 118
+Overall Rank value: 294
+Overall Rank: 167
+
+
+Code: UGPA3
+Company: ULTRAPAR PARTICIPAÇÕES SA ON
+Price: 24.98
+EBIT: 1.64217E9
+EV: 3.98615E10
+EY: 0.04119689424632791
+EY Rank: 168
+ROIC: 6.7
+Liq: 1.36123E8
+ROIC Rank: 126
+Overall Rank value: 294
+Overall Rank: 168
+
+
+Code: SUZB3
+Company: Suzano Papel ON
+Price: 62.78
+EBIT: 6.23204E9
+EV: 1.54375E11
+EY: 0.04036948987854251
+EY Rank: 171
+ROIC: 6.7
+Liq: 4.8424E8
+ROIC Rank: 125
+Overall Rank value: 296
+Overall Rank: 169
+
+
+Code: UCAS3
+Company: UNICASA ON NM
+Price: 4.07
+EBIT: 9835000.0
+EV: 2.21226E8
+EY: 0.04445679983365427
+EY Rank: 157
+ROIC: 6.0
+Liq: 383662.0
+ROIC Rank: 139
+Overall Rank value: 296
+Overall Rank: 170
+
+
+Code: EZTC3
+Company: EZTec ON NM
+Price: 40.44
+EBIT: 2.35028E8
+EV: 7.88856E9
+EY: 0.02979352378634377
+EY Rank: 185
+ROIC: 7.3
+Liq: 8.83014E7
+ROIC Rank: 114
+Overall Rank value: 299
+Overall Rank: 171
+
+
+Code: BRDT3
+Company: PETROBRAS BR ON NM
+Price: 22.8
+EBIT: 1.327E9
+EV: 3.1377E10
+EY: 0.04229212480479332
+EY Rank: 164
+ROIC: 6.2
+Liq: 1.99259E8
+ROIC Rank: 135
+Overall Rank value: 299
+Overall Rank: 172
+
+
+Code: USIM5
+Company: USIMINAS PNA N1
+Price: 16.51
+EBIT: 1.17882E9
+EV: 2.32135E10
+EY: 0.05078165722532147
+EY Rank: 145
+ROIC: 5.2
+Liq: 2.5274E8
+ROIC Rank: 155
+Overall Rank value: 300
+Overall Rank: 173
+
+
+Code: CYRE3
+Company: CYRELA BRAZIL REALTY PN
+Price: 28.71
+EBIT: 5.4748E8
+EV: 1.20266E10
+EY: 0.04552242529060582
+EY Rank: 156
+ROIC: 5.8
+Liq: 1.81621E8
+ROIC Rank: 144
+Overall Rank value: 300
+Overall Rank: 174
+
+
+Code: USIM3
+Company: USIMINAS ON N1
+Price: 17.12
+EBIT: 1.17882E9
+EV: 2.39778E10
+EY: 0.04916297575257113
+EY Rank: 147
+ROIC: 5.2
+Liq: 4454880.0
+ROIC Rank: 154
+Overall Rank value: 301
+Overall Rank: 175
+
+
+Code: POMO3
+Company: MARCOPOLO ON
+Price: 2.84
+EBIT: 2.05566E8
+EV: 3.89403E9
+EY: 0.05279004013836565
+EY Rank: 142
+ROIC: 4.4
+Liq: 657856.0
+ROIC Rank: 166
+Overall Rank value: 308
+Overall Rank: 176
+
+
+Code: VULC3
+Company: VULCABRAS S/A. ON
+Price: 7.9
+EBIT: 7.997E7
+EV: 1.98149E9
+EY: 0.040358518084875526
+EY Rank: 172
+ROIC: 6.2
+Liq: 6473960.0
+ROIC Rank: 136
+Overall Rank value: 308
+Overall Rank: 177
+
+
+Code: BRML3
+Company: BR MALLS PARTICIPAÇÔES S/A ON
+Price: 9.41
+EBIT: 6.15464E8
+EV: 1.06867E10
+EY: 0.0575915858029139
+EY Rank: 138
+ROIC: 3.5
+Liq: 1.68608E8
+ROIC Rank: 171
+Overall Rank value: 309
+Overall Rank: 178
+
+
+Code: GGBR3
+Company: GERDAU S.A. ON N1
+Price: 24.25
+EBIT: 2.55328E9
+EV: 5.40432E10
+EY: 0.04724516682949936
+EY Rank: 149
+ROIC: 4.9
+Liq: 2490550.0
+ROIC Rank: 161
+Overall Rank value: 310
+Overall Rank: 179
 
 
 Code: LINX3
 Company: LINX ON NM
 Price: 37.78
+EBIT: 1.38083E8
+EV: 6.91364E9
 EY: 0.019972547022986443
-EY Rank: 6
+EY Rank: 198
 ROIC: 7.2
 Liq: 9.12007E7
-ROIC Rank: 2
-Overall Rank value: 12
-Overall Rank: 6
+ROIC Rank: 115
+Overall Rank value: 313
+Overall Rank: 180
 
 
-Code: RDNI3
-Company: RNI ON NM
-Price: 11.0
-EY: 0.009645073742355683
-EY Rank: 7
-ROIC: 0.6
-Liq: 552257.0
-ROIC Rank: 8
-Overall Rank value: 14
-Overall Rank: 7
+Code: POMO4
+Company: MARCOPOLO PN N2
+Price: 3.05
+EBIT: 2.05566E8
+EV: 4.09288E9
+EY: 0.05022526924806005
+EY Rank: 146
+ROIC: 4.4
+Liq: 2.5008E7
+ROIC Rank: 167
+Overall Rank value: 313
+Overall Rank: 181
+
+
+Code: PNVL4
+Company: PANVEL FARMÁCIAS PN
+Price: 19.68
+EBIT: 8.52491E7
+EV: 3.12243E9
+EY: 0.027302165300743333
+EY Rank: 189
+ROIC: 6.6
+Liq: 627612.0
+ROIC Rank: 127
+Overall Rank value: 316
+Overall Rank: 182
+
+
+Code: DOHL4
+Company: DOHLER PN
+Price: 6.22
+EBIT: 2.0651E7
+EV: 4.05275E8
+EY: 0.05095552402689532
+EY Rank: 144
+ROIC: 3.2
+Liq: 326355.0
+ROIC Rank: 173
+Overall Rank value: 317
+Overall Rank: 183
+
+
+Code: GPIV33
+Company: GP INVESTMENTS, LTD DR3
+Price: 4.3
+EBIT: -9.35087E8
+EV: -3.09371E8
+EY: 3.022542513680985
+EY Rank: 26
+ROIC: -46.1
+Liq: 1729240.0
+ROIC Rank: 294
+Overall Rank value: 320
+Overall Rank: 184
+
+
+Code: DTEX3
+Company: DURATEX ON NM
+Price: 20.53
+EBIT: 5.33928E8
+EV: 1.60877E10
+EY: 0.0331885850680955
+EY Rank: 183
+ROIC: 6.1
+Liq: 5.00681E7
+ROIC Rank: 137
+Overall Rank value: 320
+Overall Rank: 185
+
+
+Code: PNVL3
+Company: PANVEL FARMÁCIAS ON
+Price: 20.8
+EBIT: 8.52491E7
+EV: 3.29209E9
+EY: 0.025895130449046046
+EY Rank: 192
+ROIC: 6.6
+Liq: 2.02328E7
+ROIC Rank: 128
+Overall Rank value: 320
+Overall Rank: 186
+
+
+Code: ROMI3
+Company: ROMI ON
+Price: 16.86
+EBIT: 6.3602E7
+EV: 1.49437E9
+EY: 0.042561079250787955
+EY Rank: 162
+ROIC: 4.7
+Liq: 1.46516E7
+ROIC Rank: 163
+Overall Rank value: 325
+Overall Rank: 187
+
+
+Code: RAIL3
+Company: RUMO S.A. ON NM
+Price: 20.0
+EBIT: 1.97406E9
+EV: 4.9665E10
+EY: 0.03974750830564784
+EY Rank: 173
+ROIC: 5.3
+Liq: 2.2965E8
+ROIC Rank: 153
+Overall Rank value: 326
+Overall Rank: 188
+
+
+Code: NTCO3
+Company: GRUPO NATURA ON NM
+Price: 50.72
+EBIT: 2.8029E9
+EV: 8.23081E10
+EY: 0.034053756556159116
+EY Rank: 182
+ROIC: 5.6
+Liq: 3.25718E8
+ROIC Rank: 147
+Overall Rank value: 329
+Overall Rank: 189
+
+
+Code: SGPS3
+Company: Springs ON NM
+Price: 7.65
+EBIT: 5.2461E7
+EV: 1.13336E9
+EY: 0.04628802851697607
+EY Rank: 152
+ROIC: 1.9
+Liq: 1134030.0
+ROIC Rank: 180
+Overall Rank value: 332
+Overall Rank: 190
+
+
+Code: GGBR4
+Company: GERDAU S.A. PN N1
+Price: 29.1
+EBIT: 2.55328E9
+EV: 6.23835E10
+EY: 0.04092877122957192
+EY Rank: 170
+ROIC: 4.9
+Liq: 3.36169E8
+ROIC Rank: 162
+Overall Rank value: 332
+Overall Rank: 191
+
+
+Code: ETER3
+Company: ETERNIT ON
+Price: 12.68
+EBIT: 2.4296E7
+EV: 6.63153E8
+EY: 0.036637095813484975
+EY Rank: 178
+ROIC: 4.9
+Liq: 7.07434E7
+ROIC Rank: 157
+Overall Rank value: 335
+Overall Rank: 192
+
+
+Code: LWSA3
+Company: LOCAWEB ON NM
+Price: 79.05
+EBIT: 4.6081E7
+EV: 9.64967E9
+EY: 0.00477539646433505
+EY Rank: 214
+ROIC: 7.1
+Liq: 1.05635E8
+ROIC Rank: 122
+Overall Rank value: 336
+Overall Rank: 193
+
+
+Code: BRPR3
+Company: BR PROPERTIES ON NM
+Price: 9.38
+EBIT: 2.13436E8
+EV: 5.01379E9
+EY: 0.04256979251225121
+EY Rank: 161
+ROIC: 2.5
+Liq: 2.23189E7
+ROIC Rank: 178
+Overall Rank value: 339
+Overall Rank: 194
+
+
+Code: RDOR3
+Company: REDE D OR ON NM
+Price: 62.23
+EBIT: 1.65026E9
+EV: 1.39298E11
+EY: 0.011846975548823385
+EY Rank: 206
+ROIC: 5.9
+Liq: 1.10586E8
+ROIC Rank: 141
+Overall Rank value: 347
+Overall Rank: 195
+
+
+Code: OMGE3
+Company: OMEGA GER ON NM
+Price: 41.67
+EBIT: 3.20652E8
+EV: 1.10274E10
+EY: 0.029077751781925024
+EY Rank: 186
+ROIC: 4.6
+Liq: 4.20741E7
+ROIC Rank: 164
+Overall Rank value: 350
+Overall Rank: 196
+
+
+Code: MGLU3
+Company: MAGAZ LUIZA ON NM
+Price: 23.84
+EBIT: 7.78376E8
+EV: 1.53694E11
+EY: 0.0050644527437635825
+EY Rank: 213
+ROIC: 6.1
+Liq: 9.42699E8
+ROIC Rank: 138
+Overall Rank value: 351
+Overall Rank: 197
+
+
+Code: AMAR3
+Company: LOJAS MARISA ON NM
+Price: 6.26
+EBIT: 8.6083E7
+EV: 2.63467E9
+EY: 0.03267316210379288
+EY Rank: 184
+ROIC: 3.5
+Liq: 2.84814E7
+ROIC Rank: 172
+Overall Rank value: 356
+Overall Rank: 198
+
+
+Code: LIGT3
+Company: LIGHT SA ON
+Price: 24.34
+EBIT: 5.22834E8
+EV: 1.45769E10
+EY: 0.03586729688754125
+EY Rank: 180
+ROIC: 2.6
+Liq: 4.73351E7
+ROIC Rank: 177
+Overall Rank value: 357
+Overall Rank: 199
+
+
+Code: PTBL3
+Company: PORTOBELLO S/A ON
+Price: 6.57
+EBIT: 4.3154E7
+EV: 1.50207E9
+EY: 0.02872968636614805
+EY Rank: 187
+ROIC: 2.8
+Liq: 2.15141E7
+ROIC Rank: 176
+Overall Rank value: 363
+Overall Rank: 200
+
+
+Code: MDNE3
+Company: MOURA DUBEUX ON NM
+Price: 10.21
+EBIT: 3.4516E7
+EV: 9.83231E8
+EY: 0.035104670214832524
+EY Rank: 181
+ROIC: 1.7
+Liq: 3105840.0
+ROIC Rank: 184
+Overall Rank value: 365
+Overall Rank: 201
+
+
+Code: LOGG3
+Company: LOG COM PROP ON NM
+Price: 34.79
+EBIT: 1.07606E8
+EV: 4.00907E9
+EY: 0.02684063885140444
+EY Rank: 190
+ROIC: 2.9
+Liq: 1.54998E7
+ROIC Rank: 175
+Overall Rank value: 365
+Overall Rank: 202
+
+
+Code: EMAE4
+Company: EMAE PN
+Price: 67.48
+EBIT: 3.4147E7
+EV: 2.06217E9
+EY: 0.01655877061541968
+EY Rank: 201
+ROIC: 3.0
+Liq: 1115530.0
+ROIC Rank: 174
+Overall Rank value: 375
+Overall Rank: 203
+
+
+Code: CAMB3
+Company: PENALTY ON
+Price: 5.71
+EBIT: 5102000.0
+EV: 2.95681E8
+EY: 0.017255082335354655
+EY Rank: 200
+ROIC: 2.1
+Liq: 855524.0
+ROIC Rank: 179
+Overall Rank value: 379
+Overall Rank: 204
 
 
 Code: BTOW3
 Company: B2W - COMPANHIA GLOBAL DO VAREJO ON
 Price: 72.0
+EBIT: 3.02716E8
+EV: 3.73609E10
 EY: 0.008102481471270767
-EY Rank: 8
+EY Rank: 210
 ROIC: 3.9
 Liq: 4.02572E8
-ROIC Rank: 6
-Overall Rank value: 16
-Overall Rank: 8
+ROIC Rank: 170
+Overall Rank value: 380
+Overall Rank: 205
+
+
+Code: FHER3
+Company: Fer Heringer ON NM
+Price: 3.17
+EBIT: 1.0003E7
+EV: 4.62743E8
+EY: 0.021616750550521563
+EY Rank: 196
+ROIC: 0.7
+Liq: 927097.0
+ROIC Rank: 188
+Overall Rank value: 384
+Overall Rank: 206
+
+
+Code: HGTX3
+Company: CIA HERING ON N1
+Price: 16.1
+EBIT: 2.8523E7
+EV: 2.38573E9
+EY: 0.011955669753073482
+EY Rank: 205
+ROIC: 1.8
+Liq: 4.33678E7
+ROIC Rank: 182
+Overall Rank value: 387
+Overall Rank: 207
+
+
+Code: POSI3
+Company: POSITIVO INF ON NM
+Price: 4.8
+EBIT: 1.3174E7
+EV: 9.19359E8
+EY: 0.014329549175023033
+EY Rank: 203
+ROIC: 0.9
+Liq: 9946830.0
+ROIC Rank: 187
+Overall Rank value: 390
+Overall Rank: 208
+
+
+Code: PRIO3
+Company: PETRORIO ON
+Price: 74.45
+EBIT: 1.21704E8
+EV: 1.32215E10
+EY: 0.009205006996180464
+EY Rank: 209
+ROIC: 1.9
+Liq: 3.71679E8
+ROIC Rank: 181
+Overall Rank value: 390
+Overall Rank: 209
+
+
+Code: GFSA3
+Company: GAFISA ON
+Price: 4.18
+EBIT: 1.6541E7
+EV: 1.37166E9
+EY: 0.012059110858375983
+EY Rank: 204
+ROIC: 0.6
+Liq: 2.35213E7
+ROIC Rank: 190
+Overall Rank value: 394
+Overall Rank: 210
+
+
+Code: RCSL4
+Company: RECRUSUL PN
+Price: 1.68
+EBIT: 650000.0
+EV: 1.26012E8
+EY: 0.005158238897882741
+EY Rank: 212
+ROIC: 1.7
+Liq: 1.39282E7
+ROIC Rank: 183
+Overall Rank value: 395
+Overall Rank: 211
+
+
+Code: RDNI3
+Company: RNI ON NM
+Price: 11.0
+EBIT: 8053000.0
+EV: 8.34934E8
+EY: 0.009645073742355683
+EY Rank: 208
+ROIC: 0.6
+Liq: 552257.0
+ROIC Rank: 189
+Overall Rank value: 397
+Overall Rank: 212
+
+
+Code: PDTC3
+Company: PADTEC ON
+Price: 6.26
+EBIT: 2861000.0
+EV: 5.24301E8
+EY: 0.005456789134485725
+EY Rank: 211
+ROIC: 1.0
+Liq: 1007690.0
+ROIC Rank: 186
+Overall Rank value: 397
+Overall Rank: 213
+
+
+Code: COGN3
+Company: COGNA ON
+Price: 4.82
+EBIT: 1.8361E8
+EV: 1.61964E10
+EY: 0.011336469832802351
+EY Rank: 207
+ROIC: 0.6
+Liq: 3.35687E8
+ROIC Rank: 191
+Overall Rank value: 398
+Overall Rank: 214
+
+
+Code: ARZZ3
+Company: AREZZO CO ON NM
+Price: 64.1
+EBIT: 1.2828E7
+EV: 6.36735E9
+EY: 0.002014652877570732
+EY Rank: 218
+ROIC: 1.3
+Liq: 3.73108E7
+ROIC Rank: 185
+Overall Rank value: 403
+Overall Rank: 215
+
+
+Code: ITSA4
+Company: ITAÚSA PN N1
+Price: 12.13
+EBIT: 3.69E8
+EV: 1.02863E11
+EY: 0.003587295723437971
+EY Rank: 216
+ROIC: 0.6
+Liq: 3.51816E8
+ROIC Rank: 192
+Overall Rank value: 408
+Overall Rank: 216
 
 
 Code: STBP3
 Company: SBPAR ON NM
 Price: 5.56
+EBIT: 1.6269E7
+EV: 4.14039E9
 EY: 0.003929339989711114
-EY Rank: 9
+EY Rank: 215
 ROIC: 0.5
 Liq: 3.09374E7
-ROIC Rank: 9
-Overall Rank value: 18
-Overall Rank: 9
+ROIC Rank: 194
+Overall Rank value: 409
+Overall Rank: 217
+
+
+Code: ITSA3
+Company: ITAÚSA ON N1
+Price: 12.5
+EBIT: 3.69E8
+EV: 1.05975E11
+EY: 0.003481953290870488
+EY Rank: 217
+ROIC: 0.6
+Liq: 2439740.0
+ROIC Rank: 193
+Overall Rank value: 410
+Overall Rank: 218
+
+
+Code: SIMH3
+Company: SIMPAR ON NM
+Price: 33.87
+EBIT: 0.0
+EV: 1.54611E10
+EY: 0.0
+EY Rank: 219
+ROIC: 0.0
+Liq: 1.56706E7
+ROIC Rank: 197
+Overall Rank value: 416
+Overall Rank: 219
+
+
+Code: TFCO4
+Company: TRACK FIELD PN
+Price: 12.6
+EBIT: 0.0
+EV: 1.19137E10
+EY: 0.0
+EY Rank: 220
+ROIC: 0.0
+Liq: 1825710.0
+ROIC Rank: 198
+Overall Rank value: 418
+Overall Rank: 220
+
+
+Code: AZEV4
+Company: AZEVEDO & TRAVASSOS PN
+Price: 4.68
+EBIT: 0.0
+EV: 1.23222E8
+EY: 0.0
+EY Rank: 221
+ROIC: 0.0
+Liq: 360900.0
+ROIC Rank: 199
+Overall Rank value: 420
+Overall Rank: 221
+
+
+Code: AVLL3
+Company: ALPHAVILLE ON NM
+Price: 24.95
+EBIT: 0.0
+EV: 1.46044E9
+EY: 0.0
+EY Rank: 222
+ROIC: 0.0
+Liq: 296115.0
+ROIC Rank: 200
+Overall Rank value: 422
+Overall Rank: 222
+
+
+Code: LJQQ3
+Company: QUERO-QUERO ON NM
+Price: 15.98
+EBIT: 0.0
+EV: 2.76606E9
+EY: 0.0
+EY Rank: 223
+ROIC: 0.0
+Liq: 2.88479E7
+ROIC Rank: 201
+Overall Rank value: 424
+Overall Rank: 223
+
+
+Code: CASH3
+Company: MELIUZ ON NM
+Price: 19.84
+EBIT: 0.0
+EV: 2.48737E9
+EY: 0.0
+EY Rank: 224
+ROIC: 0.0
+Liq: 1.2692E7
+ROIC Rank: 202
+Overall Rank value: 426
+Overall Rank: 224
+
+
+Code: ALPK3
+Company: ESTAPAR ON NM
+Price: 8.97
+EBIT: 0.0
+EV: 3.33199E9
+EY: 0.0
+EY Rank: 225
+ROIC: 0.0
+Liq: 764519.0
+ROIC Rank: 203
+Overall Rank value: 428
+Overall Rank: 225
+
+
+Code: AMBP3
+Company: AMBIPAR ON NM
+Price: 26.08
+EBIT: 0.0
+EV: 2.46713E9
+EY: 0.0
+EY Rank: 226
+ROIC: 0.0
+Liq: 1.15695E7
+ROIC Rank: 204
+Overall Rank value: 430
+Overall Rank: 226
+
+
+Code: PLPL3
+Company: PLANOEPLANO ON NM
+Price: 7.0
+EBIT: 0.0
+EV: 1.50636E9
+EY: 0.0
+EY Rank: 227
+ROIC: 0.0
+Liq: 4025130.0
+ROIC Rank: 205
+Overall Rank value: 432
+Overall Rank: 227
+
+
+Code: RPMG3
+Company: REFINARIA DE PETRÓLEOS DE MANGUINHOS S.A ON
+Price: 2.8
+EBIT: 0.0
+EV: 1.89519E8
+EY: 0.0
+EY Rank: 228
+ROIC: 0.0
+Liq: 256369.0
+ROIC Rank: 206
+Overall Rank value: 434
+Overall Rank: 228
+
+
+Code: DMVF3
+Company: D1000VFARMA ON NM
+Price: 12.35
+EBIT: 0.0
+EV: 5.25723E8
+EY: 0.0
+EY Rank: 229
+ROIC: 0.0
+Liq: 3459680.0
+ROIC Rank: 207
+Overall Rank value: 436
+Overall Rank: 229
+
+
+Code: PETZ3
+Company: PETZ ON NM
+Price: 18.13
+EBIT: 0.0
+EV: 6.74655E9
+EY: 0.0
+EY Rank: 230
+ROIC: 0.0
+Liq: 6.81184E7
+ROIC Rank: 208
+Overall Rank value: 438
+Overall Rank: 230
+
+
+Code: SEQL3
+Company: SEQUOIA LOG ON NM
+Price: 22.94
+EBIT: 0.0
+EV: 3.29543E9
+EY: 0.0
+EY Rank: 231
+ROIC: 0.0
+Liq: 1.06625E7
+ROIC Rank: 209
+Overall Rank value: 440
+Overall Rank: 231
+
+
+Code: ENJU3
+Company: ENJOEI ON NM
+Price: 12.47
+EBIT: 0.0
+EV: 2.35866E9
+EY: 0.0
+EY Rank: 232
+ROIC: 0.0
+Liq: 1.82099E7
+ROIC Rank: 210
+Overall Rank value: 442
+Overall Rank: 232
+
+
+Code: HBSA3
+Company: HIDROVIAS ON NM
+Price: 6.37
+EBIT: 0.0
+EV: 7.81285E9
+EY: 0.0
+EY Rank: 233
+ROIC: 0.0
+Liq: 1.90288E7
+ROIC Rank: 211
+Overall Rank value: 444
+Overall Rank: 233
+
+
+Code: CURY3
+Company: CURY S/A ON NM
+Price: 10.61
+EBIT: 0.0
+EV: 2.79314E9
+EY: 0.0
+EY Rank: 234
+ROIC: 0.0
+Liq: 8832470.0
+ROIC Rank: 213
+Overall Rank value: 447
+Overall Rank: 234
+
+
+Code: AZEV3
+Company: AZEVEDO & TRAVASSOS ON
+Price: 6.09
+EBIT: 0.0
+EV: 1.5114E8
+EY: 0.0
+EY Rank: 235
+ROIC: 0.0
+Liq: 413820.0
+ROIC Rank: 214
+Overall Rank value: 449
+Overall Rank: 235
+
+
+Code: GMAT3
+Company: GRUPO MATEUS ON NM
+Price: 8.85
+EBIT: 0.0
+EV: 2.05817E10
+EY: 0.0
+EY Rank: 236
+ROIC: 0.0
+Liq: 3.68411E7
+ROIC Rank: 216
+Overall Rank value: 452
+Overall Rank: 236
+
+
+Code: IGBR3
+Company: GRADIENTE ON
+Price: 10.95
+EBIT: 0.0
+EV: 1.04108E9
+EY: 0.0
+EY Rank: 237
+ROIC: 0.0
+Liq: 2714190.0
+ROIC Rank: 217
+Overall Rank value: 454
+Overall Rank: 237
+
+
+Code: RRRP3
+Company: 3R PETROLEUM ON NM
+Price: 35.51
+EBIT: 0.0
+EV: 3.87016E9
+EY: 0.0
+EY Rank: 238
+ROIC: 0.0
+Liq: 9521850.0
+ROIC Rank: 218
+Overall Rank value: 456
+Overall Rank: 238
+
+
+Code: SOMA3
+Company: GRUPO SOMA ON NM
+Price: 12.69
+EBIT: 0.0
+EV: 5.61427E9
+EY: 0.0
+EY Rank: 239
+ROIC: 0.0
+Liq: 2.44531E7
+ROIC Rank: 219
+Overall Rank value: 458
+Overall Rank: 239
+
+
+Code: AURA33
+Company: AURA 360 DR3
+Price: 62.5
+EBIT: 0.0
+EV: 4.31939E9
+EY: 0.0
+EY Rank: 240
+ROIC: 0.0
+Liq: 1.10147E7
+ROIC Rank: 220
+Overall Rank value: 460
+Overall Rank: 240
+
+
+Code: LAVV3
+Company: LAVVI ON NM
+Price: 8.74
+EBIT: 0.0
+EV: 9.10333E8
+EY: 0.0
+EY Rank: 241
+ROIC: 0.0
+Liq: 9753520.0
+ROIC Rank: 221
+Overall Rank value: 462
+Overall Rank: 241
+
+
+Code: NGRD3
+Company: NEOGRID ON NM
+Price: 7.34
+EBIT: 0.0
+EV: 1.8333E9
+EY: 0.0
+EY Rank: 242
+ROIC: 0.0
+Liq: 2.47502E7
+ROIC Rank: 222
+Overall Rank value: 464
+Overall Rank: 242
+
+
+Code: MELK3
+Company: MELNICK ON NM
+Price: 7.19
+EBIT: 0.0
+EV: 8.9988E8
+EY: 0.0
+EY Rank: 243
+ROIC: 0.0
+Liq: 4199800.0
+ROIC Rank: 223
+Overall Rank value: 466
+Overall Rank: 243
+
+
+Code: AERI3
+Company: AERIS ON NM
+Price: 10.66
+EBIT: 0.0
+EV: 9.00622E9
+EY: 0.0
+EY Rank: 244
+ROIC: 0.0
+Liq: 2.53423E7
+ROIC Rank: 224
+Overall Rank value: 468
+Overall Rank: 244
+
+
+Code: APER3
+Company: ALPER S.A. ON
+Price: 34.37
+EBIT: -334000.0
+EV: 3.42321E8
+EY: -9.756924056660269E-4
+EY Rank: 247
+ROIC: -0.1
+Liq: 845039.0
+ROIC Rank: 245
+Overall Rank value: 492
+Overall Rank: 245
+
+
+Code: MYPK3
+Company: IOCHPE-MAXION ON
+Price: 14.9
+EBIT: -1.1205E7
+EV: 6.02905E9
+EY: -0.0018585017540076795
+EY Rank: 249
+ROIC: -0.1
+Liq: 2.52667E7
+ROIC Rank: 244
+Overall Rank value: 493
+Overall Rank: 246
+
+
+Code: BRAP3
+Company: BRADESPAR S/A ON N1
+Price: 68.48
+EBIT: -1.8048E7
+EV: 2.30943E10
+EY: -7.814915368727348E-4
+EY Rank: 246
+ROIC: -0.2
+Liq: 2394220.0
+ROIC Rank: 247
+Overall Rank value: 493
+Overall Rank: 247
+
+
+Code: BRAP4
+Company: BRADESPAR S/A PN N1
+Price: 76.77
+EBIT: -1.8048E7
+EV: 2.59795E10
+EY: -6.947015916395619E-4
+EY Rank: 245
+ROIC: -0.2
+Liq: 2.2563E8
+ROIC Rank: 248
+Overall Rank value: 493
+Overall Rank: 248
+
+
+Code: EMBR3
+Company: EMBRAER ON
+Price: 8.81
+EBIT: -9.2959E7
+EV: 1.98642E10
+EY: -0.004679725335024819
+EY Rank: 251
+ROIC: -0.2
+Liq: 1.53995E8
+ROIC Rank: 246
+Overall Rank value: 497
+Overall Rank: 249
+
+
+Code: OSXB3
+Company: OSX BRASIL ON NM
+Price: 19.98
+EBIT: -7562000.0
+EV: 4.52065E9
+EY: -0.0016727682965945163
+EY Rank: 248
+ROIC: -0.4
+Liq: 4935940.0
+ROIC Rank: 250
+Overall Rank value: 498
+Overall Rank: 250
+
+
+Code: HBOR3
+Company: Helbor ON
+Price: 11.18
+EBIT: -1.1663E7
+EV: 2.45016E9
+EY: -0.004760097299768179
+EY Rank: 252
+ROIC: -0.3
+Liq: 2.00116E7
+ROIC Rank: 249
+Overall Rank value: 501
+Overall Rank: 251
+
+
+Code: TEKA4
+Company: TEKA S.A. PN
+Price: 16.44
+EBIT: -4149000.0
+EV: 5.01012E8
+EY: -0.008281238772724006
+EY Rank: 253
+ROIC: -0.7
+Liq: 203597.0
+ROIC Rank: 251
+Overall Rank value: 504
+Overall Rank: 252
+
+
+Code: AALR3
+Company: ALLIAR ON NM
+Price: 11.11
+EBIT: -2.1021E7
+EV: 1.90349E9
+EY: -0.011043399229835722
+EY Rank: 255
+ROIC: -0.9
+Liq: 5054710.0
+ROIC Rank: 252
+Overall Rank value: 507
+Overall Rank: 253
+
+
+Code: SQIA3
+Company: SINQIA ON
+Price: 22.22
+EBIT: -3765000.0
+EV: 1.30847E9
+EY: -0.002877406436525102
+EY Rank: 250
+ROIC: -1.4
+Liq: 1.3477E7
+ROIC Rank: 258
+Overall Rank value: 508
+Overall Rank: 254
+
+
+Code: MILS3
+Company: MILLS ON NM
+Price: 6.25
+EBIT: -1.3452E7
+EV: 1.48984E9
+EY: -0.009029157493422112
+EY Rank: 254
+ROIC: -1.2
+Liq: 7888210.0
+ROIC Rank: 256
+Overall Rank value: 510
+Overall Rank: 255
+
+
+Code: GUAR3
+Company: GUARARAPES CONFECÇÕES ON
+Price: 14.5
+EBIT: -9.83158E7
+EV: 8.40334E9
+EY: -0.011699609917009189
+EY Rank: 257
+ROIC: -1.1
+Liq: 1.55449E7
+ROIC Rank: 255
+Overall Rank value: 512
+Overall Rank: 256
+
+
+Code: TPIS3
+Company: TRIUNFO PARTICIPACOES SA ON NM
+Price: 2.19
+EBIT: -3.4034E7
+EV: 2.17806E9
+EY: -0.01562583216256669
+EY Rank: 259
+ROIC: -1.0
+Liq: 6104080.0
+ROIC Rank: 254
+Overall Rank value: 513
+Overall Rank: 257
+
+
+Code: CEAB3
+Company: CEA MODAS ON NM
+Price: 12.24
+EBIT: -6.56019E7
+EV: 5.3327E9
+EY: -0.01230181709077953
+EY Rank: 258
+ROIC: -1.4
+Liq: 2.00275E7
+ROIC Rank: 257
+Overall Rank value: 515
+Overall Rank: 258
+
+
+Code: TECN3
+Company: TECHNOS ON NM
+Price: 1.28
+EBIT: -4651000.0
+EV: 1.86287E8
+EY: -0.0249668522226457
+EY Rank: 265
+ROIC: -0.9
+Liq: 1873860.0
+ROIC Rank: 253
+Overall Rank value: 518
+Overall Rank: 259
+
+
+Code: FRTA3
+Company: POMIFRUTAS ON NM
+Price: 6.3
+EBIT: -846000.0
+EV: 7.3446E7
+EY: -0.01151866677559023
+EY Rank: 256
+ROIC: -2.9
+Liq: 248122.0
+ROIC Rank: 267
+Overall Rank value: 523
+Overall Rank: 260
+
+
+Code: RNEW3
+Company: RENOVA ON N2
+Price: 4.39
+EBIT: -4.4519E7
+EV: 1.78974E9
+EY: -0.02487456278565602
+EY Rank: 264
+ROIC: -2.4
+Liq: 498855.0
+ROIC Rank: 261
+Overall Rank value: 525
+Overall Rank: 261
+
+
+Code: GOLL4
+Company: GOL LINHAS AEREAS INTELIGENTES SA PN
+Price: 23.51
+EBIT: -2.81254E8
+EV: 1.77512E10
+EY: -0.015844224615800623
+EY Rank: 261
+ROIC: -2.7
+Liq: 2.84024E8
+ROIC Rank: 266
+Overall Rank value: 527
+Overall Rank: 262
+
+
+Code: RNEW11
+Company: RENOVA UNT N2
+Price: 12.49
+EBIT: -4.4519E7
+EV: 1.78028E9
+EY: -0.025006740512728335
+EY Rank: 266
+ROIC: -2.4
+Liq: 2484090.0
+ROIC Rank: 262
+Overall Rank value: 528
+Overall Rank: 263
+
+
+Code: CEBR6
+Company: CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA PNB
+Price: 147.0
+EBIT: -6.6356E7
+EV: 2.06974E9
+EY: -0.032060065515475376
+EY Rank: 269
+ROIC: -1.9
+Liq: 573653.0
+ROIC Rank: 260
+Overall Rank value: 529
+Overall Rank: 264
+
+
+Code: RNEW4
+Company: RENOVA PN N2
+Price: 3.95
+EBIT: -4.4519E7
+EV: 1.77138E9
+EY: -0.02513238266210525
+EY Rank: 267
+ROIC: -2.4
+Liq: 616103.0
+ROIC Rank: 263
+Overall Rank value: 530
+Overall Rank: 265
+
+
+Code: CEBR3
+Company: CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA ON
+Price: 131.0
+EBIT: -6.6356E7
+EV: 1.83908E9
+EY: -0.036081084020271006
+EY Rank: 271
+ROIC: -1.9
+Liq: 419987.0
+ROIC Rank: 259
+Overall Rank value: 530
+Overall Rank: 266
+
+
+Code: CNTO3
+Company: CENTAURO ON NM
+Price: 26.5
+EBIT: -1.28008E8
+EV: 6.72295E9
+EY: -0.019040450992495853
+EY Rank: 263
+ROIC: -4.2
+Liq: 4.85518E7
+ROIC Rank: 271
+Overall Rank value: 534
+Overall Rank: 267
+
+
+Code: MOAR3
+Company: MONTEIRO ARANHA ON
+Price: 239.98
+EBIT: -4.7464E7
+EV: 2.70245E9
+EY: -0.017563322170622953
+EY Rank: 262
+ROIC: -5.0
+Liq: 257896.0
+ROIC Rank: 273
+Overall Rank value: 535
+Overall Rank: 268
+
+
+Code: MMXM3
+Company: MMX MINER ON NM
+Price: 15.8
+EBIT: -5845000.0
+EV: 3.69469E8
+EY: -0.01582000113676655
+EY Rank: 260
+ROIC: -7.6
+Liq: 1.00642E7
+ROIC Rank: 276
+Overall Rank value: 536
+Overall Rank: 269
+
+
+Code: PMAM3
+Company: PARANAPANEMA S.A. ON
+Price: 9.88
+EBIT: -1.0194E8
+EV: 3.38505E9
+EY: -0.030114769353480748
+EY Rank: 268
+ROIC: -3.1
+Liq: 4400730.0
+ROIC Rank: 268
+Overall Rank value: 536
+Overall Rank: 270
+
+
+Code: OIBR4
+Company: OI ON N1
+Price: 2.93
+EBIT: -1.62291E9
+EV: 3.87207E10
+EY: -0.04191324020485167
+EY Rank: 273
+ROIC: -2.6
+Liq: 3.14211E7
+ROIC Rank: 264
+Overall Rank value: 537
+Overall Rank: 271
+
+
+Code: OIBR3
+Company: OI ON N1
+Price: 2.43
+EBIT: -1.62291E9
+EV: 3.57436E10
+EY: -0.04540421222260768
+EY Rank: 274
+ROIC: -2.6
+Liq: 3.48764E8
+ROIC Rank: 265
+Overall Rank value: 539
+Overall Rank: 272
+
+
+Code: PRNR3
+Company: PRINER ON NM
+Price: 8.82
+EBIT: -1.0694E7
+EV: 2.77608E8
+EY: -0.03852194461254719
+EY Rank: 272
+ROIC: -5.8
+Liq: 1599900.0
+ROIC Rank: 274
+Overall Rank value: 546
+Overall Rank: 273
+
+
+Code: RSID3
+Company: ROSSI RESIDENCIAL ON N1
+Price: 9.11
+EBIT: -7.1139E7
+EV: 1.48398E9
+EY: -0.04793797760077629
+EY Rank: 275
+ROIC: -4.4
+Liq: 859260.0
+ROIC Rank: 272
+Overall Rank value: 547
+Overall Rank: 274
+
+
+Code: TCNO3
+Company: TECNOSOLO S/A ON
+Price: 2.33
+EBIT: -5603000.0
+EV: 4.88876E7
+EY: -0.1146098397139561
+EY Rank: 279
+ROIC: -3.2
+Liq: 208316.0
+ROIC Rank: 269
+Overall Rank value: 548
+Overall Rank: 275
+
+
+Code: TCNO4
+Company: TECNOSOLO S/A PN
+Price: 1.5
+EBIT: -5603000.0
+EV: 4.3393E7
+EY: -0.12912220865116494
+EY Rank: 281
+ROIC: -3.2
+Liq: 239229.0
+ROIC Rank: 270
+Overall Rank value: 551
+Overall Rank: 276
+
+
+Code: TCSA3
+Company: TECNISA ON NM
+Price: 9.98
+EBIT: -9.5871E7
+EV: 9.29888E8
+EY: -0.10309951305963728
+EY Rank: 278
+ROIC: -6.7
+Liq: 7878250.0
+ROIC Rank: 275
+Overall Rank value: 553
+Overall Rank: 277
+
+
+Code: BIOM3
+Company: BIOMM SA ON
+Price: 15.95
+EBIT: -4.3508E7
+EV: 1.20825E9
+EY: -0.03600910407614318
+EY Rank: 270
+ROIC: -15.5
+Liq: 640856.0
+ROIC Rank: 285
+Overall Rank value: 555
+Overall Rank: 278
+
+
+Code: TELB3
+Company: TELEBRAS ON
+Price: 81.97
+EBIT: -2.69032E8
+EV: 4.95503E9
+EY: -0.0542947267725927
+EY Rank: 276
+ROIC: -8.2
+Liq: 403638.0
+ROIC Rank: 279
+Overall Rank value: 555
+Overall Rank: 279
+
+
+Code: BKBR3
+Company: BK BRASIL ON NM
+Price: 10.81
+EBIT: -2.69103E8
+EV: 3.44318E9
+EY: -0.07815536800283458
+EY Rank: 277
+ROIC: -9.4
+Liq: 2.6577E7
+ROIC Rank: 281
+Overall Rank value: 558
+Overall Rank: 280
+
+
+Code: LUPA3
+Company: LUPATECH ON NM
+Price: 2.48
+EBIT: -3.6733E7
+EV: 2.31423E8
+EY: -0.15872666070356015
+EY Rank: 285
+ROIC: -7.7
+Liq: 1243440.0
+ROIC Rank: 277
+Overall Rank value: 562
+Overall Rank: 281
+
+
+Code: MEAL3
+Company: IMC S/A ON NM
+Price: 3.92
+EBIT: -1.66392E8
+EV: 1.16116E9
+EY: -0.14329808122911572
+EY Rank: 283
+ROIC: -8.5
+Liq: 5.86846E7
+ROIC Rank: 280
+Overall Rank value: 563
+Overall Rank: 282
+
+
+Code: TELB4
+Company: TELEBRAS PN
+Price: 30.59
+EBIT: -2.69032E8
+EV: 1.46812E9
+EY: -0.1832493256682015
+EY Rank: 286
+ROIC: -8.2
+Liq: 1166170.0
+ROIC Rank: 278
+Overall Rank value: 564
+Overall Rank: 283
+
+
+Code: CVCB3
+Company: CVC BRASIL ON NM
+Price: 19.51
+EBIT: -4.81283E8
+EV: 3.72392E9
+EY: -0.12924096113772585
+EY Rank: 282
+ROIC: -15.9
+Liq: 1.86502E8
+ROIC Rank: 286
+Overall Rank value: 568
+Overall Rank: 284
+
+
+Code: VIVR3
+Company: VIVER ON NM
+Price: 1.32
+EBIT: -4.6254E7
+EV: 3.15668E8
+EY: -0.14652736419275947
+EY Rank: 284
+ROIC: -14.1
+Liq: 672259.0
+ROIC Rank: 284
+Overall Rank value: 568
+Overall Rank: 285
+
+
+Code: SHOW3
+Company: TIME FOR FUN ON NM
+Price: 3.85
+EBIT: -4.7742E7
+EV: 2.08644E8
+EY: -0.2288203830448036
+EY Rank: 288
+ROIC: -12.7
+Liq: 4993760.0
+ROIC Rank: 283
+Overall Rank value: 571
+Overall Rank: 286
+
+
+Code: AZUL4
+Company: AZUL PN
+Price: 36.6
+EBIT: -3.52699E9
+EV: 2.92639E10
+EY: -0.12052358024733545
+EY Rank: 280
+ROIC: -37.3
+Liq: 4.73866E8
+ROIC Rank: 293
+Overall Rank value: 573
+Overall Rank: 287
+
+
+Code: LLIS3
+Company: LE LIS BLANC DEUX ON
+Price: 4.93
+EBIT: -3.85795E8
+EV: 1.90357E9
+EY: -0.20266919524892701
+EY Rank: 287
+ROIC: -16.6
+Liq: 585026.0
+ROIC Rank: 287
+Overall Rank value: 574
+Overall Rank: 288
+
+
+Code: BBRK3
+Company: BR Brokers ON NM
+Price: 2.12
+EBIT: -2.9262E7
+EV: 3.443E7
+EY: -0.8498983444670346
+EY Rank: 295
+ROIC: -11.8
+Liq: 1736170.0
+ROIC Rank: 282
+Overall Rank value: 577
+Overall Rank: 289
+
+
+Code: INEP3
+Company: INEPAR S/A ON
+Price: 18.2
+EBIT: -2.93046E8
+EV: 8.85387E8
+EY: -0.3309806898000535
+EY Rank: 289
+ROIC: -23.1
+Liq: 598142.0
+ROIC Rank: 289
+Overall Rank value: 578
+Overall Rank: 290
+
+
+Code: INEP4
+Company: INEPAR S/A PN
+Price: 16.4
+EBIT: -2.93046E8
+EV: 8.70597E8
+EY: -0.33660350311338083
+EY Rank: 290
+ROIC: -23.1
+Liq: 749912.0
+ROIC Rank: 290
+Overall Rank value: 580
+Overall Rank: 291
+
+
+Code: SNSY5
+Company: SANSUY S.A. INDÚSTRIA DE PLÁSTICOS PNA
+Price: 6.22
+EBIT: -5.9381E7
+EV: 1.50257E8
+EY: -0.3951962304584811
+EY Rank: 294
+ROIC: -18.4
+Liq: 407731.0
+ROIC Rank: 288
+Overall Rank value: 582
+Overall Rank: 292
+
+
+Code: SLED3
+Company: EDITORA SARAIVA ON
+Price: 1.12
+EBIT: -1.08963E8
+EV: 3.23022E8
+EY: -0.33732377361294275
+EY Rank: 291
+ROIC: -35.3
+Liq: 1680450.0
+ROIC Rank: 291
+Overall Rank value: 582
+Overall Rank: 293
+
+
+Code: SLED4
+Company: EDITORA SARAIVA PN
+Price: 0.65
+EBIT: -1.08963E8
+EV: 2.9322E8
+EY: -0.3716083486801719
+EY Rank: 293
+ROIC: -35.3
+Liq: 2037890.0
+ROIC Rank: 292
+Overall Rank value: 585
+Overall Rank: 294
+
+
+Code: DMMO3
+Company: DOMMO ON
+Price: 1.35
+EBIT: -1.23101E8
+EV: 3.57234E8
+EY: -0.34459485939188317
+EY Rank: 292
+ROIC: -113.1
+Liq: 2.0224E7
+ROIC Rank: 295
+Overall Rank value: 587
+Overall Rank: 295
 
 

@@ -26,10 +26,10 @@ public class StocksRanking {
 		setEarningYieldRanks();
 		for (int i = 0; i < StocksManager.stocksList.size(); i++) {
 			Stock currentStock = StocksManager.stocksList.get(i);
-			int evEbitRank = StocksManager.stocksList.get(i).getEvEbitRank();
-			// int roicRank = StocksManager.stocksList.get(i).getRoicRank();
+			// int evEbitRank = StocksManager.stocksList.get(i).getEvEbitRank();
+			int roicRank = StocksManager.stocksList.get(i).getRoicRank();
 			int earningYieldRank = StocksManager.stocksList.get(i).getEarningYieldRank();
-			currentStock.setOverallRankValue(evEbitRank + earningYieldRank);
+			currentStock.setOverallRankValue(roicRank + earningYieldRank);
 			System.out.println(currentStock.getCode() + ": " + currentStock.getOverallRankValue());
 		}
 	}
